@@ -1,0 +1,350 @@
+,n_track,set_section,artist,track,set_name,song_id,album,duration,tempo,energy,danceability,valence,key,time_signature,acousticness,instruentalness,mode
+0,1,4,Makoto,Magic Hour,"2011-09-10 - Mary Anne Hobbs, Martyn, DJRUM @ XFM",7ul297SjmLI6D4xN4xiZzG,Souled Out,2.315716666666667,139.999,0.592,0.628,0.325,9,4,0.0241,0.956,0
+2,3,4,Rustie,Ultra Thizz,"2011-09-10 - Mary Anne Hobbs, Martyn, DJRUM @ XFM",2WzpnFQQv98FgOYRlHuU6S,Glass Swords,3.99355,189.709,0.895,0.36,0.321,0,5,0.153,0.608,1
+3,3,4,Rustie,Ultra Thizz,"2011-09-10 - Mary Anne Hobbs, Martyn, DJRUM @ XFM",2WzpnFQQv98FgOYRlHuU6S,Glass Swords,3.99355,189.709,0.895,0.36,0.321,0,5,0.153,0.608,1
+4,4,4,Mosca,Done Me Wrong,"2011-09-10 - Mary Anne Hobbs, Martyn, DJRUM @ XFM",2Zgd4CU4Gjd0Fbu4darACt,Done Me Wrong / Bax,5.499316666666667,128.033,0.861,0.803,0.479,5,4,0.00156,0.589,0
+5,4,4,Mosca,Done Me Wrong,"2011-09-10 - Mary Anne Hobbs, Martyn, DJRUM @ XFM",2Zgd4CU4Gjd0Fbu4darACt,Done Me Wrong / Bax,5.499316666666667,128.033,0.861,0.803,0.479,5,4,0.00156,0.589,0
+6,5,4,Kuedo,Ascension Phase,"2011-09-10 - Mary Anne Hobbs, Martyn, DJRUM @ XFM",1J6lT1Z8xt31I0u0fL2aaq,Severant,2.836,35.263,0.851,0.429,0.326,1,4,0.000351,0.428,0
+7,5,4,Kuedo,Ascension Phase,"2011-09-10 - Mary Anne Hobbs, Martyn, DJRUM @ XFM",1J6lT1Z8xt31I0u0fL2aaq,Severant,2.836,35.263,0.851,0.429,0.326,1,4,0.000351,0.428,0
+8,6,4,Kendrick Lamar,A.D.H.D.,"2011-09-10 - Mary Anne Hobbs, Martyn, DJRUM @ XFM",2Fw5S2gaOSZzdN5dFoC2dj,Section.80,3.591816666666667,157.74,0.799,0.609,0.582,9,4,0.33,0,1
+9,6,4,Kendrick Lamar,A.D.H.D.,"2011-09-10 - Mary Anne Hobbs, Martyn, DJRUM @ XFM",2Fw5S2gaOSZzdN5dFoC2dj,Section.80,3.591816666666667,157.74,0.799,0.609,0.582,9,4,0.33,0,1
+10,7,4,Fybe:one,So What,"2011-09-10 - Mary Anne Hobbs, Martyn, DJRUM @ XFM",4IiahAUr1zyhN4kworGJNB,Harp,2.7742166666666668,121.676,0.356,0.709,0.278,0,1,0.422,0.00226,1
+11,7,4,Fybe:one,So What,"2011-09-10 - Mary Anne Hobbs, Martyn, DJRUM @ XFM",4IiahAUr1zyhN4kworGJNB,Harp,2.7742166666666668,121.676,0.356,0.709,0.278,0,1,0.422,0.00226,1
+13,9,4,Cosmin TRG,Amor Y Otros,"2011-09-10 - Mary Anne Hobbs, Martyn, DJRUM @ XFM",5c6Dc8mlqs39Fjkvhh6E6Y,Simulat,5.538666666666667,125.003,0.706,0.571,0.0597,0,4,0.00264,0.841,1
+14,9,4,Cosmin TRG,Amor Y Otros,"2011-09-10 - Mary Anne Hobbs, Martyn, DJRUM @ XFM",5c6Dc8mlqs39Fjkvhh6E6Y,Simulat,5.538666666666667,125.003,0.706,0.571,0.0597,0,4,0.00264,0.841,1
+15,10,4,Silkie,Get Up & Dance,"2011-09-10 - Mary Anne Hobbs, Martyn, DJRUM @ XFM",20O48JTG6O46tPAuZbliRA,Up 2 Më,2.62965,139.902,0.58,0.66,0.115,10,4,0.0372,0,0
+16,10,4,Silkie,Get Up & Dance,"2011-09-10 - Mary Anne Hobbs, Martyn, DJRUM @ XFM",20O48JTG6O46tPAuZbliRA,Up 2 Më,2.62965,139.902,0.58,0.66,0.115,10,4,0.0372,0,0
+18,12,4,Pangaea,Fatalist,"2011-09-10 - Mary Anne Hobbs, Martyn, DJRUM @ XFM",3xhw7AQmnWmsoYg8mluLWe,Hex / Fatalist,4.405733333333333,132.023,0.764,0.53,0.0622,11,4,0.00398,0.79,0
+19,12,4,Pangaea,Fatalist,"2011-09-10 - Mary Anne Hobbs, Martyn, DJRUM @ XFM",3xhw7AQmnWmsoYg8mluLWe,Hex / Fatalist,4.405733333333333,132.023,0.764,0.53,0.0622,11,4,0.00398,0.79,0
+20,13,4,Four Tet,Locked,"2011-09-10 - Mary Anne Hobbs, Martyn, DJRUM @ XFM",1vBxzMZGCneeEemHVMw6Q3,Pink,8.4923,133.193,0.745,0.783,0.888,4,4,0.00237,0.17,0
+21,13,4,Four Tet,Locked,"2011-09-10 - Mary Anne Hobbs, Martyn, DJRUM @ XFM",1vBxzMZGCneeEemHVMw6Q3,Pink,8.4923,133.193,0.745,0.783,0.888,4,4,0.00237,0.17,0
+23,2,4,Pangaea,Hex,"2011-09-10 - Mary Anne Hobbs, Martyn, DJRUM @ XFM",10VZ7I7O9NYACpBDyJgow3,Hex / Fatalist,5.38735,83.759,0.744,0.625,0.576,1,5,0.0115,0.224,1
+24,2,4,Pangaea,Hex,"2011-09-10 - Mary Anne Hobbs, Martyn, DJRUM @ XFM",10VZ7I7O9NYACpBDyJgow3,Hex / Fatalist,5.38735,83.759,0.744,0.625,0.576,1,5,0.0115,0.224,1
+25,3,4,Mosca,Orange Jack,"2011-09-10 - Mary Anne Hobbs, Martyn, DJRUM @ XFM",3RW7MJIzisaxr1pt2QYuJq,Dom Perignon EP,5.8782,124.97,0.661,0.798,0.087,11,4,0.00124,0.144,0
+26,3,4,Mosca,Orange Jack,"2011-09-10 - Mary Anne Hobbs, Martyn, DJRUM @ XFM",3RW7MJIzisaxr1pt2QYuJq,Dom Perignon EP,5.8782,124.97,0.661,0.798,0.087,11,4,0.00124,0.144,0
+27,4,4,Jon Convex,Zero,"2011-09-10 - Mary Anne Hobbs, Martyn, DJRUM @ XFM",30wG3yWTqD9FJBReQTG9Jq,Lied to Be Loved,4.500783333333334,128.007,0.675,0.805,0.673,11,4,0.000253,0.893,0
+28,4,4,Jon Convex,Zero,"2011-09-10 - Mary Anne Hobbs, Martyn, DJRUM @ XFM",30wG3yWTqD9FJBReQTG9Jq,Lied to Be Loved,4.500783333333334,128.007,0.675,0.805,0.673,11,4,0.000253,0.893,0
+29,5,4,Brooks Mosher,Intermetro,"2011-09-10 - Mary Anne Hobbs, Martyn, DJRUM @ XFM",14CkxzeBLjd1q6oASgiCHP,Mass Transit EP,5.985266666666667,125.708,0.985,0.796,0.157,1,4,2.64e-05,0.893,0
+30,5,4,Brooks Mosher,Intermetro,"2011-09-10 - Mary Anne Hobbs, Martyn, DJRUM @ XFM",14CkxzeBLjd1q6oASgiCHP,Mass Transit EP,5.985266666666667,125.708,0.985,0.796,0.157,1,4,2.64e-05,0.893,0
+31,6,4,Martyn,Popgun,"2011-09-10 - Mary Anne Hobbs, Martyn, DJRUM @ XFM",3MwuwWkxWyuishJUbFynoP,Ghost People,5.6383833333333335,127.008,0.978,0.634,0.53,11,4,0.00219,0.876,0
+32,6,4,Martyn,Popgun,"2011-09-10 - Mary Anne Hobbs, Martyn, DJRUM @ XFM",3MwuwWkxWyuishJUbFynoP,Ghost People,5.6383833333333335,127.008,0.978,0.634,0.53,11,4,0.00219,0.876,0
+33,7,4,George Fitzgerald,Feel Like,"2011-09-10 - Mary Anne Hobbs, Martyn, DJRUM @ XFM",2eDVCHZKmPZt4WGyNoZIB9,Update,5.662933333333333,125.999,0.682,0.825,0.544,5,4,0.00659,0.273,0
+34,7,4,George Fitzgerald,Feel Like,"2011-09-10 - Mary Anne Hobbs, Martyn, DJRUM @ XFM",2eDVCHZKmPZt4WGyNoZIB9,Update,5.662933333333333,125.999,0.682,0.825,0.544,5,4,0.00659,0.273,0
+37,10,4,VHS Head,Jager,"2011-09-10 - Mary Anne Hobbs, Martyn, DJRUM @ XFM",3tozpLl0aGHWMipj02Q7KU,Midnight Section,4.29565,115.028,0.791,0.383,0.705,10,4,0.359,0.00151,0
+38,10,4,VHS Head,Jager,"2011-09-10 - Mary Anne Hobbs, Martyn, DJRUM @ XFM",3tozpLl0aGHWMipj02Q7KU,Midnight Section,4.29565,115.028,0.791,0.383,0.705,10,4,0.359,0.00151,0
+39,11,4,Ghosts On Tape,Video Void,"2011-09-10 - Mary Anne Hobbs, Martyn, DJRUM @ XFM",2ZCk7QnHkztZXVIHFGBR8V,Surreal Estate: Compiled & Mixed by Ana Sia,6.242,128.983,0.701,0.631,0.203,6,4,0.000276,0.925,1
+40,11,4,Ghosts On Tape,Video Void,"2011-09-10 - Mary Anne Hobbs, Martyn, DJRUM @ XFM",2ZCk7QnHkztZXVIHFGBR8V,Surreal Estate: Compiled & Mixed by Ana Sia,6.242,128.983,0.701,0.631,0.203,6,4,0.000276,0.925,1
+43,14,4,Royce Wood Junior,Ophelia,"2011-09-10 - Mary Anne Hobbs, Martyn, DJRUM @ XFM",6alLMP3Cs5e1htVElLEgpE,The Ashen Tang (Deluxe Version),3.769416666666667,67.114,0.55,0.196,0.259,9,4,0.818,0.00246,1
+44,14,4,Royce Wood Junior,Ophelia,"2011-09-10 - Mary Anne Hobbs, Martyn, DJRUM @ XFM",6alLMP3Cs5e1htVElLEgpE,The Ashen Tang (Deluxe Version),3.769416666666667,67.114,0.55,0.196,0.259,9,4,0.818,0.00246,1
+46,16,4,Elephant & Castle,I Will,"2011-09-10 - Mary Anne Hobbs, Martyn, DJRUM @ XFM",2pZwmMdSwVBJ2X2mXz8npi,Absolve Me,2.3001666666666667,114.88,0.257,0.548,0.317,2,3,0.669,0.798,1
+47,16,4,Elephant & Castle,I Will,"2011-09-10 - Mary Anne Hobbs, Martyn, DJRUM @ XFM",2pZwmMdSwVBJ2X2mXz8npi,Absolve Me,2.3001666666666667,114.88,0.257,0.548,0.317,2,3,0.669,0.798,1
+48,16,4,Elephant & Castle,I Will,"2011-09-10 - Mary Anne Hobbs, Martyn, DJRUM @ XFM",1bk4EmP7CbyokEBMelPwNy,Transitions,4.333333333333333,100.325,0.536,0.227,0.0373,0,5,0.0147,0.124,1
+49,1,4,DJRUM,Watermark,"2011-09-10 - Mary Anne Hobbs, Martyn, DJRUM @ XFM",1qyn05p64r1CRkq43bDN46,Watermark,9.1111,135.002,0.744,0.52,0.0374,11,4,0.499,0.837,0
+50,1,4,DJRUM,Watermark,"2011-09-10 - Mary Anne Hobbs, Martyn, DJRUM @ XFM",1qyn05p64r1CRkq43bDN46,Watermark,9.1111,135.002,0.744,0.52,0.0374,11,4,0.499,0.837,0
+51,1,4,DJRUM,Watermark,"2011-09-10 - Mary Anne Hobbs, Martyn, DJRUM @ XFM",1qyn05p64r1CRkq43bDN46,Watermark,9.1111,135.002,0.744,0.52,0.0374,11,4,0.499,0.837,0
+52,1,4,DJRUM,Watermark,"2011-09-10 - Mary Anne Hobbs, Martyn, DJRUM @ XFM",1qyn05p64r1CRkq43bDN46,Watermark,9.1111,135.002,0.744,0.52,0.0374,11,4,0.499,0.837,0
+53,2,4,DJRUM,Undercoat,"2011-09-10 - Mary Anne Hobbs, Martyn, DJRUM @ XFM",55ZCb9HEcCIWAwU1u4rWZm,Mountains,7.871733333333333,139.969,0.584,0.516,0.141,0,4,0.377,0.507,1
+54,2,4,DJRUM,Undercoat,"2011-09-10 - Mary Anne Hobbs, Martyn, DJRUM @ XFM",55ZCb9HEcCIWAwU1u4rWZm,Mountains,7.871733333333333,139.969,0.584,0.516,0.141,0,4,0.377,0.507,1
+55,3,4,Richter,Shadow Journal,"2011-09-10 - Mary Anne Hobbs, Martyn, DJRUM @ XFM",4cXFtk0n7aPjiypuF1HFaA,The Blue Notebooks (15 Years),8.3831,143.206,0.103,0.26,0.036,7,4,0.924,0.744,0
+56,3,4,Richter,Shadow Journal,"2011-09-10 - Mary Anne Hobbs, Martyn, DJRUM @ XFM",4cXFtk0n7aPjiypuF1HFaA,The Blue Notebooks (15 Years),8.3831,143.206,0.103,0.26,0.036,7,4,0.924,0.744,0
+57,4,4,Pinch,Cave Dream,"2011-09-10 - Mary Anne Hobbs, Martyn, DJRUM @ XFM",5YU5yUoKOON24vkvyEqy6W,Pepper Spray,4.724666666666667,137.953,0.229,0.662,0.0627,0,4,0.085,0.481,1
+58,4,4,Pinch,Cave Dream,"2011-09-10 - Mary Anne Hobbs, Martyn, DJRUM @ XFM",5YU5yUoKOON24vkvyEqy6W,Pepper Spray,4.724666666666667,137.953,0.229,0.662,0.0627,0,4,0.085,0.481,1
+60,6,4,Andy Stott,Blocked,"2011-09-10 - Mary Anne Hobbs, Martyn, DJRUM @ XFM",6bVqPX0TDKOMRN6RtuQ2ym,Merciless,3.264666666666667,137.006,0.495,0.673,0.151,8,4,0.153,0.786,1
+61,6,4,Andy Stott,Blocked,"2011-09-10 - Mary Anne Hobbs, Martyn, DJRUM @ XFM",6bVqPX0TDKOMRN6RtuQ2ym,Merciless,3.264666666666667,137.006,0.495,0.673,0.151,8,4,0.153,0.786,1
+62,7,4,Juggaknots,Epiphany,"2011-09-10 - Mary Anne Hobbs, Martyn, DJRUM @ XFM",5bhkPGdgAxxwDjH6YIcNWe,Re:Release,4.066983333333333,85.251,0.91,0.62,0.81,0,4,0.0296,0,1
+63,7,4,Juggaknots,Epiphany,"2011-09-10 - Mary Anne Hobbs, Martyn, DJRUM @ XFM",5bhkPGdgAxxwDjH6YIcNWe,Re:Release,4.066983333333333,85.251,0.91,0.62,0.81,0,4,0.0296,0,1
+64,8,4,Masta Ace,Slaughta,"2011-09-10 - Mary Anne Hobbs, Martyn, DJRUM @ XFM",3CAwF3T9ua9cV5U9UerB1E,SlaughtaHouse,4.844,87.924,0.693,0.649,0.735,2,4,0.0433,0,1
+65,8,4,Masta Ace,Slaughta,"2011-09-10 - Mary Anne Hobbs, Martyn, DJRUM @ XFM",3CAwF3T9ua9cV5U9UerB1E,SlaughtaHouse,4.844,87.924,0.693,0.649,0.735,2,4,0.0433,0,1
+67,10,4,DJRUM,Watermark,"2011-09-10 - Mary Anne Hobbs, Martyn, DJRUM @ XFM",1qyn05p64r1CRkq43bDN46,Watermark,9.1111,135.002,0.744,0.52,0.0374,11,4,0.499,0.837,0
+68,10,4,DJRUM,Watermark,"2011-09-10 - Mary Anne Hobbs, Martyn, DJRUM @ XFM",1qyn05p64r1CRkq43bDN46,Watermark,9.1111,135.002,0.744,0.52,0.0374,11,4,0.499,0.837,0
+69,10,4,DJRUM,Watermark,"2011-09-10 - Mary Anne Hobbs, Martyn, DJRUM @ XFM",1qyn05p64r1CRkq43bDN46,Watermark,9.1111,135.002,0.744,0.52,0.0374,11,4,0.499,0.837,0
+70,10,4,DJRUM,Watermark,"2011-09-10 - Mary Anne Hobbs, Martyn, DJRUM @ XFM",1qyn05p64r1CRkq43bDN46,Watermark,9.1111,135.002,0.744,0.52,0.0374,11,4,0.499,0.837,0
+73,2,4,Samoyed,Malamute,"2011-09-10 - Mary Anne Hobbs, Martyn, DJRUM @ XFM",2MxrN91GjJxM4Zve6mCPlZ,Spit EP,4.127966666666667,96.925,0.547,0.468,0.0369,8,4,0.621,0.311,1
+74,2,4,Samoyed,Malamute,"2011-09-10 - Mary Anne Hobbs, Martyn, DJRUM @ XFM",2MxrN91GjJxM4Zve6mCPlZ,Spit EP,4.127966666666667,96.925,0.547,0.468,0.0369,8,4,0.621,0.311,1
+75,3,4,ARP 101,U,"2011-09-10 - Mary Anne Hobbs, Martyn, DJRUM @ XFM",5w85s4HfMvO99pV4zgEwvX,U/Groove,5.8501,134.899,0.569,0.79,0.562,1,4,0.0324,0.646,1
+76,3,4,ARP 101,U,"2011-09-10 - Mary Anne Hobbs, Martyn, DJRUM @ XFM",5w85s4HfMvO99pV4zgEwvX,U/Groove,5.8501,134.899,0.569,0.79,0.562,1,4,0.0324,0.646,1
+77,4,4,Free The Robots,Prototype B,"2011-09-10 - Mary Anne Hobbs, Martyn, DJRUM @ XFM",6a37HGYrSMgnNTeWkj7SCd,The Mind's Eye,2.7604333333333333,159.75,0.524,0.344,0.0561,0,4,0.0157,0.906,1
+78,4,4,Free The Robots,Prototype B,"2011-09-10 - Mary Anne Hobbs, Martyn, DJRUM @ XFM",6a37HGYrSMgnNTeWkj7SCd,The Mind's Eye,2.7604333333333333,159.75,0.524,0.344,0.0561,0,4,0.0157,0.906,1
+79,5,4,Tha Pope,When You,"2011-09-10 - Mary Anne Hobbs, Martyn, DJRUM @ XFM",6xwFI0m0ODEXPJW3wnXH3M,Bangs & Works Vol. 2 (The Best of Chicago Footwork),1.8704333333333334,125.859,0.547,0.482,0.207,11,3,0.00548,0.00436,0
+80,5,4,Tha Pope,When You,"2011-09-10 - Mary Anne Hobbs, Martyn, DJRUM @ XFM",6xwFI0m0ODEXPJW3wnXH3M,Bangs & Works Vol. 2 (The Best of Chicago Footwork),1.8704333333333334,125.859,0.547,0.482,0.207,11,3,0.00548,0.00436,0
+81,6,4,Gerry Read,Roomland,"2011-09-10 - Mary Anne Hobbs, Martyn, DJRUM @ XFM",0Z1XeWuJclCJDo9UutcK6b,Roomland,7.1181,127.006,0.734,0.783,0.184,6,4,0.0396,0.319,0
+82,6,4,Gerry Read,Roomland,"2011-09-10 - Mary Anne Hobbs, Martyn, DJRUM @ XFM",0Z1XeWuJclCJDo9UutcK6b,Roomland,7.1181,127.006,0.734,0.783,0.184,6,4,0.0396,0.319,0
+84,1,4,Makoto,Magic Hour,"2011-09-10 - Mary Anne Hobbs, Martyn, DJRUM @ XFM",7ul297SjmLI6D4xN4xiZzG,Souled Out,2.315716666666667,139.999,0.592,0.628,0.325,9,4,0.0241,0.956,0
+86,3,4,Rustie,Ultra Thizz,"2011-09-10 - Mary Anne Hobbs, Martyn, DJRUM @ XFM",2WzpnFQQv98FgOYRlHuU6S,Glass Swords,3.99355,189.709,0.895,0.36,0.321,0,5,0.153,0.608,1
+87,3,4,Rustie,Ultra Thizz,"2011-09-10 - Mary Anne Hobbs, Martyn, DJRUM @ XFM",2WzpnFQQv98FgOYRlHuU6S,Glass Swords,3.99355,189.709,0.895,0.36,0.321,0,5,0.153,0.608,1
+88,4,4,Mosca,Done Me Wrong,"2011-09-10 - Mary Anne Hobbs, Martyn, DJRUM @ XFM",2Zgd4CU4Gjd0Fbu4darACt,Done Me Wrong / Bax,5.499316666666667,128.033,0.861,0.803,0.479,5,4,0.00156,0.589,0
+89,4,4,Mosca,Done Me Wrong,"2011-09-10 - Mary Anne Hobbs, Martyn, DJRUM @ XFM",2Zgd4CU4Gjd0Fbu4darACt,Done Me Wrong / Bax,5.499316666666667,128.033,0.861,0.803,0.479,5,4,0.00156,0.589,0
+90,5,4,Kuedo,Ascension Phase,"2011-09-10 - Mary Anne Hobbs, Martyn, DJRUM @ XFM",1J6lT1Z8xt31I0u0fL2aaq,Severant,2.836,35.263,0.851,0.429,0.326,1,4,0.000351,0.428,0
+91,5,4,Kuedo,Ascension Phase,"2011-09-10 - Mary Anne Hobbs, Martyn, DJRUM @ XFM",1J6lT1Z8xt31I0u0fL2aaq,Severant,2.836,35.263,0.851,0.429,0.326,1,4,0.000351,0.428,0
+92,6,4,Kendrick Lamar,A.D.H.D.,"2011-09-10 - Mary Anne Hobbs, Martyn, DJRUM @ XFM",2Fw5S2gaOSZzdN5dFoC2dj,Section.80,3.591816666666667,157.74,0.799,0.609,0.582,9,4,0.33,0,1
+93,6,4,Kendrick Lamar,A.D.H.D.,"2011-09-10 - Mary Anne Hobbs, Martyn, DJRUM @ XFM",2Fw5S2gaOSZzdN5dFoC2dj,Section.80,3.591816666666667,157.74,0.799,0.609,0.582,9,4,0.33,0,1
+94,7,4,Fybe:one,So What,"2011-09-10 - Mary Anne Hobbs, Martyn, DJRUM @ XFM",4IiahAUr1zyhN4kworGJNB,Harp,2.7742166666666668,121.676,0.356,0.709,0.278,0,1,0.422,0.00226,1
+95,7,4,Fybe:one,So What,"2011-09-10 - Mary Anne Hobbs, Martyn, DJRUM @ XFM",4IiahAUr1zyhN4kworGJNB,Harp,2.7742166666666668,121.676,0.356,0.709,0.278,0,1,0.422,0.00226,1
+97,9,4,Cosmin TRG,Amor Y Otros,"2011-09-10 - Mary Anne Hobbs, Martyn, DJRUM @ XFM",5c6Dc8mlqs39Fjkvhh6E6Y,Simulat,5.538666666666667,125.003,0.706,0.571,0.0597,0,4,0.00264,0.841,1
+98,9,4,Cosmin TRG,Amor Y Otros,"2011-09-10 - Mary Anne Hobbs, Martyn, DJRUM @ XFM",5c6Dc8mlqs39Fjkvhh6E6Y,Simulat,5.538666666666667,125.003,0.706,0.571,0.0597,0,4,0.00264,0.841,1
+99,10,4,Silkie,Get Up & Dance,"2011-09-10 - Mary Anne Hobbs, Martyn, DJRUM @ XFM",20O48JTG6O46tPAuZbliRA,Up 2 Më,2.62965,139.902,0.58,0.66,0.115,10,4,0.0372,0,0
+100,10,4,Silkie,Get Up & Dance,"2011-09-10 - Mary Anne Hobbs, Martyn, DJRUM @ XFM",20O48JTG6O46tPAuZbliRA,Up 2 Më,2.62965,139.902,0.58,0.66,0.115,10,4,0.0372,0,0
+102,12,4,Pangaea,Fatalist,"2011-09-10 - Mary Anne Hobbs, Martyn, DJRUM @ XFM",3xhw7AQmnWmsoYg8mluLWe,Hex / Fatalist,4.405733333333333,132.023,0.764,0.53,0.0622,11,4,0.00398,0.79,0
+103,12,4,Pangaea,Fatalist,"2011-09-10 - Mary Anne Hobbs, Martyn, DJRUM @ XFM",3xhw7AQmnWmsoYg8mluLWe,Hex / Fatalist,4.405733333333333,132.023,0.764,0.53,0.0622,11,4,0.00398,0.79,0
+104,13,4,Four Tet,Locked,"2011-09-10 - Mary Anne Hobbs, Martyn, DJRUM @ XFM",1vBxzMZGCneeEemHVMw6Q3,Pink,8.4923,133.193,0.745,0.783,0.888,4,4,0.00237,0.17,0
+105,13,4,Four Tet,Locked,"2011-09-10 - Mary Anne Hobbs, Martyn, DJRUM @ XFM",1vBxzMZGCneeEemHVMw6Q3,Pink,8.4923,133.193,0.745,0.783,0.888,4,4,0.00237,0.17,0
+107,2,4,Pangaea,Hex,"2011-09-10 - Mary Anne Hobbs, Martyn, DJRUM @ XFM",10VZ7I7O9NYACpBDyJgow3,Hex / Fatalist,5.38735,83.759,0.744,0.625,0.576,1,5,0.0115,0.224,1
+108,2,4,Pangaea,Hex,"2011-09-10 - Mary Anne Hobbs, Martyn, DJRUM @ XFM",10VZ7I7O9NYACpBDyJgow3,Hex / Fatalist,5.38735,83.759,0.744,0.625,0.576,1,5,0.0115,0.224,1
+109,3,4,Mosca,Orange Jack,"2011-09-10 - Mary Anne Hobbs, Martyn, DJRUM @ XFM",3RW7MJIzisaxr1pt2QYuJq,Dom Perignon EP,5.8782,124.97,0.661,0.798,0.087,11,4,0.00124,0.144,0
+110,3,4,Mosca,Orange Jack,"2011-09-10 - Mary Anne Hobbs, Martyn, DJRUM @ XFM",3RW7MJIzisaxr1pt2QYuJq,Dom Perignon EP,5.8782,124.97,0.661,0.798,0.087,11,4,0.00124,0.144,0
+111,4,4,Jon Convex,Zero,"2011-09-10 - Mary Anne Hobbs, Martyn, DJRUM @ XFM",30wG3yWTqD9FJBReQTG9Jq,Lied to Be Loved,4.500783333333334,128.007,0.675,0.805,0.673,11,4,0.000253,0.893,0
+112,4,4,Jon Convex,Zero,"2011-09-10 - Mary Anne Hobbs, Martyn, DJRUM @ XFM",30wG3yWTqD9FJBReQTG9Jq,Lied to Be Loved,4.500783333333334,128.007,0.675,0.805,0.673,11,4,0.000253,0.893,0
+113,5,4,Brooks Mosher,Intermetro,"2011-09-10 - Mary Anne Hobbs, Martyn, DJRUM @ XFM",14CkxzeBLjd1q6oASgiCHP,Mass Transit EP,5.985266666666667,125.708,0.985,0.796,0.157,1,4,2.64e-05,0.893,0
+114,5,4,Brooks Mosher,Intermetro,"2011-09-10 - Mary Anne Hobbs, Martyn, DJRUM @ XFM",14CkxzeBLjd1q6oASgiCHP,Mass Transit EP,5.985266666666667,125.708,0.985,0.796,0.157,1,4,2.64e-05,0.893,0
+115,6,4,Martyn,Popgun,"2011-09-10 - Mary Anne Hobbs, Martyn, DJRUM @ XFM",3MwuwWkxWyuishJUbFynoP,Ghost People,5.6383833333333335,127.008,0.978,0.634,0.53,11,4,0.00219,0.876,0
+116,6,4,Martyn,Popgun,"2011-09-10 - Mary Anne Hobbs, Martyn, DJRUM @ XFM",3MwuwWkxWyuishJUbFynoP,Ghost People,5.6383833333333335,127.008,0.978,0.634,0.53,11,4,0.00219,0.876,0
+117,7,4,George Fitzgerald,Feel Like,"2011-09-10 - Mary Anne Hobbs, Martyn, DJRUM @ XFM",2eDVCHZKmPZt4WGyNoZIB9,Update,5.662933333333333,125.999,0.682,0.825,0.544,5,4,0.00659,0.273,0
+118,7,4,George Fitzgerald,Feel Like,"2011-09-10 - Mary Anne Hobbs, Martyn, DJRUM @ XFM",2eDVCHZKmPZt4WGyNoZIB9,Update,5.662933333333333,125.999,0.682,0.825,0.544,5,4,0.00659,0.273,0
+121,10,4,VHS Head,Jager,"2011-09-10 - Mary Anne Hobbs, Martyn, DJRUM @ XFM",3tozpLl0aGHWMipj02Q7KU,Midnight Section,4.29565,115.028,0.791,0.383,0.705,10,4,0.359,0.00151,0
+122,10,4,VHS Head,Jager,"2011-09-10 - Mary Anne Hobbs, Martyn, DJRUM @ XFM",3tozpLl0aGHWMipj02Q7KU,Midnight Section,4.29565,115.028,0.791,0.383,0.705,10,4,0.359,0.00151,0
+123,11,4,Ghosts On Tape,Video Void,"2011-09-10 - Mary Anne Hobbs, Martyn, DJRUM @ XFM",2ZCk7QnHkztZXVIHFGBR8V,Surreal Estate: Compiled & Mixed by Ana Sia,6.242,128.983,0.701,0.631,0.203,6,4,0.000276,0.925,1
+124,11,4,Ghosts On Tape,Video Void,"2011-09-10 - Mary Anne Hobbs, Martyn, DJRUM @ XFM",2ZCk7QnHkztZXVIHFGBR8V,Surreal Estate: Compiled & Mixed by Ana Sia,6.242,128.983,0.701,0.631,0.203,6,4,0.000276,0.925,1
+127,14,4,Royce Wood Junior,Ophelia,"2011-09-10 - Mary Anne Hobbs, Martyn, DJRUM @ XFM",6alLMP3Cs5e1htVElLEgpE,The Ashen Tang (Deluxe Version),3.769416666666667,67.114,0.55,0.196,0.259,9,4,0.818,0.00246,1
+128,14,4,Royce Wood Junior,Ophelia,"2011-09-10 - Mary Anne Hobbs, Martyn, DJRUM @ XFM",6alLMP3Cs5e1htVElLEgpE,The Ashen Tang (Deluxe Version),3.769416666666667,67.114,0.55,0.196,0.259,9,4,0.818,0.00246,1
+130,16,4,Elephant & Castle,I Will,"2011-09-10 - Mary Anne Hobbs, Martyn, DJRUM @ XFM",2pZwmMdSwVBJ2X2mXz8npi,Absolve Me,2.3001666666666667,114.88,0.257,0.548,0.317,2,3,0.669,0.798,1
+131,16,4,Elephant & Castle,I Will,"2011-09-10 - Mary Anne Hobbs, Martyn, DJRUM @ XFM",2pZwmMdSwVBJ2X2mXz8npi,Absolve Me,2.3001666666666667,114.88,0.257,0.548,0.317,2,3,0.669,0.798,1
+132,16,4,Elephant & Castle,I Will,"2011-09-10 - Mary Anne Hobbs, Martyn, DJRUM @ XFM",1bk4EmP7CbyokEBMelPwNy,Transitions,4.333333333333333,100.325,0.536,0.227,0.0373,0,5,0.0147,0.124,1
+133,1,4,DJRUM,Watermark,"2011-09-10 - Mary Anne Hobbs, Martyn, DJRUM @ XFM",1qyn05p64r1CRkq43bDN46,Watermark,9.1111,135.002,0.744,0.52,0.0374,11,4,0.499,0.837,0
+134,1,4,DJRUM,Watermark,"2011-09-10 - Mary Anne Hobbs, Martyn, DJRUM @ XFM",1qyn05p64r1CRkq43bDN46,Watermark,9.1111,135.002,0.744,0.52,0.0374,11,4,0.499,0.837,0
+135,1,4,DJRUM,Watermark,"2011-09-10 - Mary Anne Hobbs, Martyn, DJRUM @ XFM",1qyn05p64r1CRkq43bDN46,Watermark,9.1111,135.002,0.744,0.52,0.0374,11,4,0.499,0.837,0
+136,1,4,DJRUM,Watermark,"2011-09-10 - Mary Anne Hobbs, Martyn, DJRUM @ XFM",1qyn05p64r1CRkq43bDN46,Watermark,9.1111,135.002,0.744,0.52,0.0374,11,4,0.499,0.837,0
+137,2,4,DJRUM,Undercoat,"2011-09-10 - Mary Anne Hobbs, Martyn, DJRUM @ XFM",55ZCb9HEcCIWAwU1u4rWZm,Mountains,7.871733333333333,139.969,0.584,0.516,0.141,0,4,0.377,0.507,1
+138,2,4,DJRUM,Undercoat,"2011-09-10 - Mary Anne Hobbs, Martyn, DJRUM @ XFM",55ZCb9HEcCIWAwU1u4rWZm,Mountains,7.871733333333333,139.969,0.584,0.516,0.141,0,4,0.377,0.507,1
+139,3,4,Richter,Shadow Journal,"2011-09-10 - Mary Anne Hobbs, Martyn, DJRUM @ XFM",4cXFtk0n7aPjiypuF1HFaA,The Blue Notebooks (15 Years),8.3831,143.206,0.103,0.26,0.036,7,4,0.924,0.744,0
+140,3,4,Richter,Shadow Journal,"2011-09-10 - Mary Anne Hobbs, Martyn, DJRUM @ XFM",4cXFtk0n7aPjiypuF1HFaA,The Blue Notebooks (15 Years),8.3831,143.206,0.103,0.26,0.036,7,4,0.924,0.744,0
+141,4,4,Pinch,Cave Dream,"2011-09-10 - Mary Anne Hobbs, Martyn, DJRUM @ XFM",5YU5yUoKOON24vkvyEqy6W,Pepper Spray,4.724666666666667,137.953,0.229,0.662,0.0627,0,4,0.085,0.481,1
+142,4,4,Pinch,Cave Dream,"2011-09-10 - Mary Anne Hobbs, Martyn, DJRUM @ XFM",5YU5yUoKOON24vkvyEqy6W,Pepper Spray,4.724666666666667,137.953,0.229,0.662,0.0627,0,4,0.085,0.481,1
+144,6,4,Andy Stott,Blocked,"2011-09-10 - Mary Anne Hobbs, Martyn, DJRUM @ XFM",6bVqPX0TDKOMRN6RtuQ2ym,Merciless,3.264666666666667,137.006,0.495,0.673,0.151,8,4,0.153,0.786,1
+145,6,4,Andy Stott,Blocked,"2011-09-10 - Mary Anne Hobbs, Martyn, DJRUM @ XFM",6bVqPX0TDKOMRN6RtuQ2ym,Merciless,3.264666666666667,137.006,0.495,0.673,0.151,8,4,0.153,0.786,1
+146,7,4,Juggaknots,Epiphany,"2011-09-10 - Mary Anne Hobbs, Martyn, DJRUM @ XFM",5bhkPGdgAxxwDjH6YIcNWe,Re:Release,4.066983333333333,85.251,0.91,0.62,0.81,0,4,0.0296,0,1
+147,7,4,Juggaknots,Epiphany,"2011-09-10 - Mary Anne Hobbs, Martyn, DJRUM @ XFM",5bhkPGdgAxxwDjH6YIcNWe,Re:Release,4.066983333333333,85.251,0.91,0.62,0.81,0,4,0.0296,0,1
+148,8,4,Masta Ace,Slaughta,"2011-09-10 - Mary Anne Hobbs, Martyn, DJRUM @ XFM",3CAwF3T9ua9cV5U9UerB1E,SlaughtaHouse,4.844,87.924,0.693,0.649,0.735,2,4,0.0433,0,1
+149,8,4,Masta Ace,Slaughta,"2011-09-10 - Mary Anne Hobbs, Martyn, DJRUM @ XFM",3CAwF3T9ua9cV5U9UerB1E,SlaughtaHouse,4.844,87.924,0.693,0.649,0.735,2,4,0.0433,0,1
+151,10,4,DJRUM,Watermark,"2011-09-10 - Mary Anne Hobbs, Martyn, DJRUM @ XFM",1qyn05p64r1CRkq43bDN46,Watermark,9.1111,135.002,0.744,0.52,0.0374,11,4,0.499,0.837,0
+152,10,4,DJRUM,Watermark,"2011-09-10 - Mary Anne Hobbs, Martyn, DJRUM @ XFM",1qyn05p64r1CRkq43bDN46,Watermark,9.1111,135.002,0.744,0.52,0.0374,11,4,0.499,0.837,0
+153,10,4,DJRUM,Watermark,"2011-09-10 - Mary Anne Hobbs, Martyn, DJRUM @ XFM",1qyn05p64r1CRkq43bDN46,Watermark,9.1111,135.002,0.744,0.52,0.0374,11,4,0.499,0.837,0
+154,10,4,DJRUM,Watermark,"2011-09-10 - Mary Anne Hobbs, Martyn, DJRUM @ XFM",1qyn05p64r1CRkq43bDN46,Watermark,9.1111,135.002,0.744,0.52,0.0374,11,4,0.499,0.837,0
+157,2,4,Samoyed,Malamute,"2011-09-10 - Mary Anne Hobbs, Martyn, DJRUM @ XFM",2MxrN91GjJxM4Zve6mCPlZ,Spit EP,4.127966666666667,96.925,0.547,0.468,0.0369,8,4,0.621,0.311,1
+158,2,4,Samoyed,Malamute,"2011-09-10 - Mary Anne Hobbs, Martyn, DJRUM @ XFM",2MxrN91GjJxM4Zve6mCPlZ,Spit EP,4.127966666666667,96.925,0.547,0.468,0.0369,8,4,0.621,0.311,1
+159,3,4,ARP 101,U,"2011-09-10 - Mary Anne Hobbs, Martyn, DJRUM @ XFM",5w85s4HfMvO99pV4zgEwvX,U/Groove,5.8501,134.899,0.569,0.79,0.562,1,4,0.0324,0.646,1
+160,3,4,ARP 101,U,"2011-09-10 - Mary Anne Hobbs, Martyn, DJRUM @ XFM",5w85s4HfMvO99pV4zgEwvX,U/Groove,5.8501,134.899,0.569,0.79,0.562,1,4,0.0324,0.646,1
+161,4,4,Free The Robots,Prototype B,"2011-09-10 - Mary Anne Hobbs, Martyn, DJRUM @ XFM",6a37HGYrSMgnNTeWkj7SCd,The Mind's Eye,2.7604333333333333,159.75,0.524,0.344,0.0561,0,4,0.0157,0.906,1
+162,4,4,Free The Robots,Prototype B,"2011-09-10 - Mary Anne Hobbs, Martyn, DJRUM @ XFM",6a37HGYrSMgnNTeWkj7SCd,The Mind's Eye,2.7604333333333333,159.75,0.524,0.344,0.0561,0,4,0.0157,0.906,1
+163,5,4,Tha Pope,When You,"2011-09-10 - Mary Anne Hobbs, Martyn, DJRUM @ XFM",6xwFI0m0ODEXPJW3wnXH3M,Bangs & Works Vol. 2 (The Best of Chicago Footwork),1.8704333333333334,125.859,0.547,0.482,0.207,11,3,0.00548,0.00436,0
+164,5,4,Tha Pope,When You,"2011-09-10 - Mary Anne Hobbs, Martyn, DJRUM @ XFM",6xwFI0m0ODEXPJW3wnXH3M,Bangs & Works Vol. 2 (The Best of Chicago Footwork),1.8704333333333334,125.859,0.547,0.482,0.207,11,3,0.00548,0.00436,0
+165,6,4,Gerry Read,Roomland,"2011-09-10 - Mary Anne Hobbs, Martyn, DJRUM @ XFM",0Z1XeWuJclCJDo9UutcK6b,Roomland,7.1181,127.006,0.734,0.783,0.184,6,4,0.0396,0.319,0
+166,6,4,Gerry Read,Roomland,"2011-09-10 - Mary Anne Hobbs, Martyn, DJRUM @ XFM",0Z1XeWuJclCJDo9UutcK6b,Roomland,7.1181,127.006,0.734,0.783,0.184,6,4,0.0396,0.319,0
+168,1,1,Chris Watson,The Blue Men Of The Minch,2012-04-16 - DJRUM - Resident Advisor (RA.307),6Natu7HOsVIhbjKAw34BAH,Stepping Into The Dark,4.851416666666666,102.38,0.577,0.164,0.0299,1,3,0.04,0.398,1
+169,1,1,Chris Watson,The Blue Men Of The Minch,2012-04-16 - DJRUM - Resident Advisor (RA.307),6Natu7HOsVIhbjKAw34BAH,Stepping Into The Dark,4.851416666666666,102.38,0.577,0.164,0.0299,1,3,0.04,0.398,1
+170,1,1,Chris Watson,The Blue Men Of The Minch,2012-04-16 - DJRUM - Resident Advisor (RA.307),6Natu7HOsVIhbjKAw34BAH,Stepping Into The Dark,4.851416666666666,102.38,0.577,0.164,0.0299,1,3,0.04,0.398,1
+171,2,1,Murcof,Una,2012-04-16 - DJRUM - Resident Advisor (RA.307),1ycSPjczsh9dmMaARqeiD1,Martes + Utopía,6.831333333333333,120.031,0.339,0.452,0.309,7,4,0.759,0.82,0
+172,3,1,Pangaea,Memories,2012-04-16 - DJRUM - Resident Advisor (RA.307),5OMqYZUM5L9TDT7HlUyeWP,Conversations,3.1177,113.571,0.0358,0.203,0.0323,0,5,0.954,0.581,1
+174,5,1,Sleeparchive,Papercup,2012-04-16 - DJRUM - Resident Advisor (RA.307),3FYtAWUmov76qaZKngzCjX,Papercup,8.92465,129.993,0.432,0.819,0.0376,1,4,0.0165,0.899,1
+175,6,1,DJRUM,Mountains Pt.1,2012-04-16 - DJRUM - Resident Advisor (RA.307),6x6MjxaTNciYWddWcT7MBq,Mountains,8.759116666666667,136.995,0.662,0.472,0.164,2,4,0.611,0.9,1
+176,6,1,DJRUM,Mountains Pt.1,2012-04-16 - DJRUM - Resident Advisor (RA.307),6x6MjxaTNciYWddWcT7MBq,Mountains,8.759116666666667,136.995,0.662,0.472,0.164,2,4,0.611,0.9,1
+177,7,1,DJRUM,Mountains Pt.1,2012-04-16 - DJRUM - Resident Advisor (RA.307),6x6MjxaTNciYWddWcT7MBq,Mountains,8.759116666666667,136.995,0.662,0.472,0.164,2,4,0.611,0.9,1
+178,7,1,DJRUM,Mountains Pt.1,2012-04-16 - DJRUM - Resident Advisor (RA.307),6x6MjxaTNciYWddWcT7MBq,Mountains,8.759116666666667,136.995,0.662,0.472,0.164,2,4,0.611,0.9,1
+179,8,1,DJRUM,Mountains Pt.2,2012-04-16 - DJRUM - Resident Advisor (RA.307),4xaqWoYwpPuzOB0Ys4K6Ho,Mountains,6.5979833333333335,161.527,0.516,0.33,0.055,6,4,0.845,0.848,0
+181,10,1,Herbie Hancock,Goodbye To Childhood,2012-04-16 - DJRUM - Resident Advisor (RA.307),4kmriSrayYZ9wegMjNCjjB,Speak Like A Child (Expanded Edition),7.116,89.768,0.214,0.363,0.0476,5,4,0.967,0.784,1
+182,11,1,Andy Bey,Celestial Blues,2012-04-16 - DJRUM - Resident Advisor (RA.307),0475IaWC3utT3w8WGvREzE,The Wanderings Of The Avener,3.6077666666666666,99.899,0.561,0.86,0.664,8,4,0.0343,0.0305,0
+183,12,1,Untold,Kingdom,2012-04-16 - DJRUM - Resident Advisor (RA.307),1vVcnnJ6zv6zel1jmCZPMX,Kingdom,4.331333333333333,142.037,0.237,0.919,0.204,0,4,0.0575,0.897,0
+184,13,1,Chris Watson,River Mara At Dawn,2012-04-16 - DJRUM - Resident Advisor (RA.307),0i9mwB0msSUsNKijaT00GS,Stepping Into The Dark,6.453766666666667,133.154,0.986,0.322,0.00775,2,3,0.88,0.384,1
+186,15,1,Perc,Tension,2012-04-16 - DJRUM - Resident Advisor (RA.307),4audLi0OvGL529RBpdDMrp,Monad V,8.103633333333333,127.984,0.925,0.66,0.342,1,4,0.00166,0.885,1
+187,16,1,Chris Watson,The Blue Men Of The Minch,2012-04-16 - DJRUM - Resident Advisor (RA.307),6Natu7HOsVIhbjKAw34BAH,Stepping Into The Dark,4.851416666666666,102.38,0.577,0.164,0.0299,1,3,0.04,0.398,1
+188,16,1,Chris Watson,The Blue Men Of The Minch,2012-04-16 - DJRUM - Resident Advisor (RA.307),6Natu7HOsVIhbjKAw34BAH,Stepping Into The Dark,4.851416666666666,102.38,0.577,0.164,0.0299,1,3,0.04,0.398,1
+189,16,1,Chris Watson,The Blue Men Of The Minch,2012-04-16 - DJRUM - Resident Advisor (RA.307),6Natu7HOsVIhbjKAw34BAH,Stepping Into The Dark,4.851416666666666,102.38,0.577,0.164,0.0299,1,3,0.04,0.398,1
+190,17,1,DJRUM,The Darkest Hour Is Just Before Dawn,2012-04-16 - DJRUM - Resident Advisor (RA.307),7yN25VzBBZa22xcU6APBXl,Watermark,9.08435,129.966,0.675,0.647,0.0947,7,4,0.194,0.841,1
+191,18,1,DJRUM,Honey,2012-04-16 - DJRUM - Resident Advisor (RA.307),7faK5oYGHACSr8sLXEFPxw,Seven Lies,4.967116666666667,129.018,0.545,0.418,0.0819,7,4,0.906,0.127,0
+192,19,1,Richard Skelton,Noon Hill Wood,2012-04-16 - DJRUM - Resident Advisor (RA.307),2hc9XfYzYpm5EqHjSKG8wI,The Complete Landings,8.4451,95.618,0.256,0.149,0.0643,7,1,0.876,0.0444,0
+193,20,1,Marcel Dettmann,Shatter Proof,2012-04-16 - DJRUM - Resident Advisor (RA.307),53CMRyYqks24OsgQzKDuhv,Mdr 04,5.772666666666667,127.002,0.732,0.956,0.636,11,4,0.00068,0.966,0
+194,21,1,Daughter,Landfill,2012-04-16 - DJRUM - Resident Advisor (RA.307),7zUnbLzzq8g5IoKedMiRo9,His Young Heart,4.398433333333333,125.949,0.47,0.618,0.395,11,4,0.774,0,0
+195,22,1,Andy Stott,Handle With Care,2012-04-16 - DJRUM - Resident Advisor (RA.307),76hAhf2ojuVRXrCtYKCUmO,Unknown Exception,4.828433333333333,125.005,0.138,0.618,0.215,8,4,0.415,0.943,1
+197,24,1,Indigo,Snowfall,2012-04-16 - DJRUM - Resident Advisor (RA.307),2w4kbr2GJUZwHw5LoHz34M,Scope Exclusives,4.19335,129.925,0.724,0.458,0.0376,11,4,0.0911,0.573,0
+199,26,1,Vashti Bunyan,Here Before,2012-04-16 - DJRUM - Resident Advisor (RA.307),4Y6TcrxjWUEa4GzSl8z65a,Lookaftering,2.088216666666667,207.244,0.11,0.2,0.606,10,3,0.957,0.718,1
+200,27,1,Elephant And Castle,I Will,2012-04-16 - DJRUM - Resident Advisor (RA.307),2pZwmMdSwVBJ2X2mXz8npi,Absolve Me,2.3001666666666667,114.88,0.257,0.548,0.317,2,3,0.669,0.798,1
+201,27,1,Elephant And Castle,I Will,2012-04-16 - DJRUM - Resident Advisor (RA.307),2pZwmMdSwVBJ2X2mXz8npi,Absolve Me,2.3001666666666667,114.88,0.257,0.548,0.317,2,3,0.669,0.798,1
+202,27,1,Elephant And Castle,I Will,2012-04-16 - DJRUM - Resident Advisor (RA.307),1bk4EmP7CbyokEBMelPwNy,Transitions,4.333333333333333,100.325,0.536,0.227,0.0373,0,5,0.0147,0.124,1
+204,29,1,Chris Watson,The Blue Men Of The Minch,2012-04-16 - DJRUM - Resident Advisor (RA.307),6Natu7HOsVIhbjKAw34BAH,Stepping Into The Dark,4.851416666666666,102.38,0.577,0.164,0.0299,1,3,0.04,0.398,1
+205,29,1,Chris Watson,The Blue Men Of The Minch,2012-04-16 - DJRUM - Resident Advisor (RA.307),6Natu7HOsVIhbjKAw34BAH,Stepping Into The Dark,4.851416666666666,102.38,0.577,0.164,0.0299,1,3,0.04,0.398,1
+206,29,1,Chris Watson,The Blue Men Of The Minch,2012-04-16 - DJRUM - Resident Advisor (RA.307),6Natu7HOsVIhbjKAw34BAH,Stepping Into The Dark,4.851416666666666,102.38,0.577,0.164,0.0299,1,3,0.04,0.398,1
+208,1,1,Jaylib,The Official,2013-04-30 - Djrum - Mix Of The Week,4hKn3UprlDFgjOZ1CtufBr,Champion Sound,3.525333333333333,96.828,0.71,0.648,0.796,6,4,0.181,0,0
+210,3,1,Slum Village,Fall In Love,2013-04-30 - Djrum - Mix Of The Week,2KBo6O5rkNdtYT3wYjkEkq,"Fantastic, Vol. 2.10",3.9202,91.212,0.543,0.796,0.784,1,4,0.0486,0.00584,1
+211,4,1,Special Request,Vapour,2013-04-30 - Djrum - Mix Of The Week,23OFDqerSu0gNHeHy6B0ID,Soul Music,6.044066666666667,124.981,0.926,0.802,0.685,4,4,0.0609,0.815,0
+212,5,1,Special Request,Mindwash,2013-04-30 - Djrum - Mix Of The Week,3yCqb5PexXKnPUvD6iOvxq,Soul Music,6.400666666666667,135.968,0.996,0.756,0.636,1,4,0.0234,0.816,1
+213,6,1,+ Daughter,Love,2013-04-30 - Djrum - Mix Of The Week,0bhwnn2xqnBUcMZDcXNuII,Hey Lover / Stand by Me,2.4,128.16,0.482,0.48,0.684,7,4,0.25,0.000289,0
+216,9,1,Other Lives,Tamer Animals,2013-04-30 - Djrum - Mix Of The Week,23r4eXV6ziw0NNznZU9NiC,Tamer Animals,4.128666666666667,118.998,0.625,0.546,0.337,2,4,0.733,0.954,0
+218,11,1,Nils Frahm,For,2013-04-30 - Djrum - Mix Of The Week,7B0ofCHeQu2FoX7P28ZaPp,All Melody,5.26945,82.843,0.0118,0.253,0.149,8,3,0.952,0.614,1
+219,12,1,Ena,Splinter,2013-04-30 - Djrum - Mix Of The Week,0Mm8udZBPw0ymntFXmt3VH,Analysis Code / Splinter,5.20275,176.84,0.635,0.436,0.108,2,5,0.238,0.896,1
+220,13,1,+ Djrum,Turiya,2013-04-30 - Djrum - Mix Of The Week,3vYLW2osKjMPjGQCfGMOE5,Mountains,6.936083333333333,134.02,0.651,0.758,0.602,7,4,0.371,0.053,0
+221,14,1,Murcof,Maiz,2013-04-30 - Djrum - Mix Of The Week,1monORomgHx5OeLpQFFZcr,Martes + Utopía,6.098216666666667,135.074,0.522,0.765,0.192,4,4,0.101,0.839,0
+222,15,1,Lucy & Xhin,LX4,2013-04-30 - Djrum - Mix Of The Week,0Pt6Jdk5vDzvpxNIvmwwLX,LX4 / LX5,6.188383333333333,190.45,0.61,0.494,0.0386,4,3,0.028,0.873,0
+228,21,1,Pedestrian,Kalakuta,2013-04-30 - Djrum - Mix Of The Week,2mbevf2GnmUlw73WmnTyd1,Kalakuta / Ndizi,6.992116666666667,126.999,0.832,0.831,0.427,11,4,0.0304,0.211,0
+229,22,1,Djrum,"Blue On Blue, Voodoo",2013-04-30 - Djrum - Mix Of The Week,62gCsiTzKgrFQt9bBOCzko,Future Foundations,7.9874,122.53,0.758,0.543,0.42,7,4,0.781,0.686,0
+230,23,1,Ena,Unplug,2013-04-30 - Djrum - Mix Of The Week,17zs8MmmQD0vUPYl1Dtqwk,Bilateral,5.106816666666667,140.013,0.677,0.461,0.163,1,4,0.00459,0.125,1
+231,24,1,Taylor Deupree,Sleepover,2013-04-30 - Djrum - Mix Of The Week,2OmalkigRfeC4jd2yAZBPt,Lost & Compiled,7.003816666666666,70.083,0.0332,0.0667,0.0455,9,3,0.972,0.922,0
+232,25,1,Dub,One,2013-04-30 - Djrum - Mix Of The Week,6KZmW3m8H69be0JSMj6762,CONTROVERSIA by Alok Vol. 001,2.429,121.849,0.756,0.618,0.325,7,4,0.0268,4.66e-06,1
+233,26,1,Ital Tek,Hyper Real,2013-04-30 - Djrum - Mix Of The Week,7b8Etg4gaTpwJRTTyZhcfk,Hyper Real,4.3026333333333335,160.006,0.851,0.635,0.623,6,4,0.00069,0.904,0
+234,27,1,DJ Cam,No Competition,2013-04-30 - Djrum - Mix Of The Week,1sXmkVWZHCkj76FcHh3rIL,Abstract Manifesto,5.9702166666666665,78.097,0.471,0.541,0.169,8,4,0.422,0.329,1
+236,29,1,DUB,ONE,2013-04-30 - Djrum - Mix Of The Week,6KZmW3m8H69be0JSMj6762,CONTROVERSIA by Alok Vol. 001,2.429,121.849,0.756,0.618,0.325,7,4,0.0268,4.66e-06,1
+237,30,1,Cliff Martinez,Drive Soundtrack,2013-04-30 - Djrum - Mix Of The Week,1ptBH8MFuEgtEcjcU6t5t1,Drive (Original Motion Picture Soundtrack),2.058883333333333,78.274,0.0522,0.204,0.0345,0,1,0.968,0.937,1
+240,1,2,Stwo,Quiet Life,"2014-01-10 - Stwo, DJRUM @ Mixmag DJ Lab",3PlKa10kPgtqcYgQSeuP85,Bondax & Friends - The Mix Album,2.5848833333333334,179.27,0.622,0.629,0.334,4,4,0.588,0.781,0
+242,3,2,TLC,Creep,"2014-01-10 - Stwo, DJRUM @ Mixmag DJ Lab",1aWV3uY3SIEZVbmv45oFWS,Crazysexycool,4.47555,92.94,0.458,0.811,0.797,5,4,0.0193,1.41e-06,0
+243,4,2,Waldo,Purple Heart,"2014-01-10 - Stwo, DJRUM @ Mixmag DJ Lab",0dWgZDsIgcIR2tt84MG5K5,Nsde/Outsde,3.64285,172.483,0.419,0.626,0.282,9,4,0.174,0,1
+246,7,2,Djemba Djemba,I Just Go,"2014-01-10 - Stwo, DJRUM @ Mixmag DJ Lab",4TDYH4DJ8aF6rLSjkPhevI,"Jeffree's, Vol. 6",4.08215,85.018,0.75,0.638,0.415,2,4,0.0232,0.0561,1
+248,9,2,Kaytranada,At All,"2014-01-10 - Stwo, DJRUM @ Mixmag DJ Lab",0aR99yr1CNoxlZxm2veB65,At All / Hilarity Duff EP,4.787466666666667,120.099,0.471,0.898,0.41,2,4,0.0399,0.698,1
+249,10,2,Basenji,Dawn,"2014-01-10 - Stwo, DJRUM @ Mixmag DJ Lab",7dcMofYVUj7hn6GI819zzc,Trackpad,3.3333333333333335,120.023,0.841,0.658,0.111,1,4,0.0275,0.891,0
+251,12,2,Feadz & Kitto,Wettex,"2014-01-10 - Stwo, DJRUM @ Mixmag DJ Lab",7KLLPEF2v1P9PCh7G9gHdd,Electric Empire Remixes,3.7592833333333333,94.834,0.763,0.541,0.503,5,3,0.0107,1.87e-05,0
+252,13,2,Rabit,So Clean,"2014-01-10 - Stwo, DJRUM @ Mixmag DJ Lab",1cz0aPH0tahViPSIubF5lT,Terminator,4.0,129.995,0.961,0.885,0.345,11,4,0.131,0.7,0
+253,14,2,Drake,All Me,"2014-01-10 - Stwo, DJRUM @ Mixmag DJ Lab",7y911sqgHGHcyU4ivapjwi,Nothing Was The Same (Deluxe),4.514433333333334,122.006,0.515,0.67,0.422,1,4,0.0705,0,1
+255,16,2,Gladys Knight,Grapevine,"2014-01-10 - Stwo, DJRUM @ Mixmag DJ Lab",1aRrJewQmqU3wMUf86VVc6,Everybody Needs Love,2.764883333333333,112.385,0.589,0.685,0.906,5,4,0.213,2.22e-05,1
+258,19,2,Ta,Ku,"2014-01-10 - Stwo, DJRUM @ Mixmag DJ Lab",6G699QfN1BWYWXfiblH51F,"Kusu Kusu (From ""Satyameva Jayate 2"")",3.260266666666667,101.0,0.911,0.742,0.78,8,4,0.0137,0.00081,1
+259,19,2,Ta,Ku,"2014-01-10 - Stwo, DJRUM @ Mixmag DJ Lab",6G699QfN1BWYWXfiblH51F,"Kusu Kusu (From ""Satyameva Jayate 2"")",3.260266666666667,101.0,0.911,0.742,0.78,8,4,0.0137,0.00081,1
+260,20,2,Glitter Sand,Ku,"2014-01-10 - Stwo, DJRUM @ Mixmag DJ Lab",6G699QfN1BWYWXfiblH51F,"Kusu Kusu (From ""Satyameva Jayate 2"")",3.260266666666667,101.0,0.911,0.742,0.78,8,4,0.0137,0.00081,1
+261,20,2,Glitter Sand,Ku,"2014-01-10 - Stwo, DJRUM @ Mixmag DJ Lab",6G699QfN1BWYWXfiblH51F,"Kusu Kusu (From ""Satyameva Jayate 2"")",3.260266666666667,101.0,0.911,0.742,0.78,8,4,0.0137,0.00081,1
+263,22,2,Jaw Jam,Long Night,"2014-01-10 - Stwo, DJRUM @ Mixmag DJ Lab",1BvjLMKLM1oUCnOQIJLurJ,No Sleep,4.154,132.004,0.4,0.901,0.383,0,4,0.171,0.000485,1
+265,24,2,Ta,Ku,"2014-01-10 - Stwo, DJRUM @ Mixmag DJ Lab",6G699QfN1BWYWXfiblH51F,"Kusu Kusu (From ""Satyameva Jayate 2"")",3.260266666666667,101.0,0.911,0.742,0.78,8,4,0.0137,0.00081,1
+266,24,2,Ta,Ku,"2014-01-10 - Stwo, DJRUM @ Mixmag DJ Lab",6G699QfN1BWYWXfiblH51F,"Kusu Kusu (From ""Satyameva Jayate 2"")",3.260266666666667,101.0,0.911,0.742,0.78,8,4,0.0137,0.00081,1
+267,25,2,Cashmere Cat,With Me,"2014-01-10 - Stwo, DJRUM @ Mixmag DJ Lab",7ldfz2uZ1WRwBk1k3cPQUj,With Me,3.9643166666666665,132.024,0.833,0.662,0.2,5,4,0.0487,0.614,0
+269,27,2,Nas Feat. Ginuwine,You Owe Me,"2014-01-10 - Stwo, DJRUM @ Mixmag DJ Lab",2VqjCBJ4AxpDTrNRKhL0Pw,Nastradamus,4.7984333333333336,110.026,0.487,0.867,0.696,1,4,0.167,0,1
+270,28,2,Boeboe,Negative ROI,"2014-01-10 - Stwo, DJRUM @ Mixmag DJ Lab",1vjzmLV5FuAKe6Nq3pD9Tx,Buy Sell Bye Cell,4.1343,140.053,0.641,0.923,0.4,0,4,0.335,0.0289,1
+271,29,2,Mr. Carmack,NASA,"2014-01-10 - Stwo, DJRUM @ Mixmag DJ Lab",2VjAxmGdalbuhpCazPEQIY,Dimebag,2.6269,146.051,0.917,0.665,0.35,0,4,0.16,0.88,0
+273,1,2,Sun Ra,Door Of The Cosmos,"2014-01-10 - Stwo, DJRUM @ Mixmag DJ Lab",1m65A1pNcJpMAl3hXkf77l,Sleeping Beauty (Expanded Edition),9.000316666666667,115.282,0.607,0.59,0.61,10,4,0.662,0.649,1
+275,3,2,PVS,Fuckin' So­cie­ty,"2014-01-10 - Stwo, DJRUM @ Mixmag DJ Lab",0snqUQjJFj3BoMWnjCadgT,Fuckin' Society,8.08,126.958,0.484,0.685,0.466,6,4,0.275,0.627,1
+278,6,2,STP,The Fall,"2014-01-10 - Stwo, DJRUM @ Mixmag DJ Lab",4M7sVeaYcS6eg1DJrZ3JWG,The Fall,5.497233333333333,217.897,0.812,0.28,0.0753,1,3,0.000364,0.89,0
+280,8,2,Jeru The Da­ma­ja,D. Ori­gi­nal,"2014-01-10 - Stwo, DJRUM @ Mixmag DJ Lab",4p8Qf6AayqI1cwy5k7ZOWP,The Sun Rises In The East,3.5951,92.956,0.833,0.812,0.688,10,4,0.0211,1.62e-05,1
+285,13,2,Andy Stott,Dark De­tails,"2014-01-10 - Stwo, DJRUM @ Mixmag DJ Lab",46qAFbOoq4jKnAyVs1Ny3w,Passed Me By,6.066933333333333,134.962,0.367,0.782,0.214,3,4,0.455,0.901,0
+288,16,2,Cloud 9,You Got Me Burnin',"2014-01-10 - Stwo, DJRUM @ Mixmag DJ Lab",4QM03Jgj9V8EdBtbh393la,Vintage Dread 2000,7.59,151.866,0.896,0.669,0.768,1,4,0.0229,0.868,0
+289,17,2,Shed,Well Done,"2014-01-10 - Stwo, DJRUM @ Mixmag DJ Lab",7q0JSe5U7jlDKdjpRo6PDE,Go 'head Shed,1.2510333333333334,168.513,0.237,0.621,0.488,11,1,0.847,2.67e-05,0
+292,20,2,Lemon D,This Is L.A.,"2014-01-10 - Stwo, DJRUM @ Mixmag DJ Lab",6ATcLYpnpXqoyaDaWPYOVb,Urban Style Music / This Is L.A. (Remasters),7.585333333333334,164.954,0.939,0.557,0.643,6,4,2.63e-05,0.593,1
+293,21,2,? White Label Jung­le Re­cord From 1995,This Is L.A.,"2014-01-10 - Stwo, DJRUM @ Mixmag DJ Lab",6ATcLYpnpXqoyaDaWPYOVb,Urban Style Music / This Is L.A. (Remasters),7.585333333333334,164.954,0.939,0.557,0.643,6,4,2.63e-05,0.593,1
+298,26,2,The Doors,The End,"2014-01-10 - Stwo, DJRUM @ Mixmag DJ Lab",5UgT7w6zVZjP3oyawMzbiK,The Doors,11.722883333333334,105.702,0.302,0.347,0.0332,0,4,0.163,9.17e-05,1
+306,4,6,Chaim,Safe Word,"2017-02-11 - B.Traits, Peggy Gou, Sasha, Djrum - B.Traits, BBC Radio 1",15aTD9lzjqjxEY9ctHW1aF,Safe Word,7.587933333333333,124.985,0.455,0.693,0.534,8,4,0.125,0.912,1
+307,5,6,Elliot Lion & Cin Cin,Athens,"2017-02-11 - B.Traits, Peggy Gou, Sasha, Djrum - B.Traits, BBC Radio 1",3v4cfzLTcSeokPHquy43H5,Electric Blue / Pearl,7.89125,124.999,0.854,0.573,0.393,5,4,0.00116,0.843,1
+308,6,6,Mental Overdrive & Ploink,Totem,"2017-02-11 - B.Traits, Peggy Gou, Sasha, Djrum - B.Traits, BBC Radio 1",5Fqo0GsvOwZNrTtZZKgb4s,Hardware,3.9206666666666665,123.027,0.929,0.8,0.229,2,3,0.00133,0.963,1
+309,7,6,Reset Robot,TwoTwo,"2017-02-11 - B.Traits, Peggy Gou, Sasha, Djrum - B.Traits, BBC Radio 1",2nRmghraU5iRP0fDTTFdTX,Attack of the Denim Hand,6.176316666666667,124.995,0.63,0.805,0.124,6,4,0.0149,0.852,0
+310,1,6,Redshape & Delsin,London,"2017-02-11 - B.Traits, Peggy Gou, Sasha, Djrum - B.Traits, BBC Radio 1",6gvc8b8tygPU0CwfcQW3xs,Best of Live - Vol. 2,6.0236833333333335,122.979,0.808,0.788,0.0337,7,4,0.0104,0.919,1
+312,2,6,CT Trax & Dixon Avenue Basement Jams,Redline,"2017-02-11 - B.Traits, Peggy Gou, Sasha, Djrum - B.Traits, BBC Radio 1",0qIVd1REocZdsLLPr7y5os,DABJ Allstars Vol.1,4.6555333333333335,124.968,0.868,0.55,0.145,10,4,3e-05,0.895,0
+313,3,6,Fred P & Secretsundaze,6AM,"2017-02-11 - B.Traits, Peggy Gou, Sasha, Djrum - B.Traits, BBC Radio 1",6OK0ArjlzNNJZi1sb8DuNW,Instinctive Rhythms,6.058333333333334,127.02,0.776,0.796,0.191,7,4,0.00597,0.936,1
+314,4,6,Mind Against & Aether & Afterlife,Event Horizon,"2017-02-11 - B.Traits, Peggy Gou, Sasha, Djrum - B.Traits, BBC Radio 1",2UK210IYDea0L1ufQc6NH6,Solaris EP,8.22505,125.978,0.563,0.673,0.0905,5,4,0.0105,0.872,0
+315,5,6,Yard One & Tact Recordings,Pulsar,"2017-02-11 - B.Traits, Peggy Gou, Sasha, Djrum - B.Traits, BBC Radio 1",6YcF0GhwQYR8jxwvCBKe3d,Pleiades - EP,7.254933333333334,128.003,0.581,0.77,0.0444,7,4,0.0001,0.804,1
+316,6,6,Layton Giordani & Drumcode,Silver Shadows,"2017-02-11 - B.Traits, Peggy Gou, Sasha, Djrum - B.Traits, BBC Radio 1",7E8bMHbummq03raPd6tnmb,Where It Begins,7.83905,128.004,0.841,0.781,0.384,6,4,0.00016,0.847,1
+317,7,6,Dettmann & Klock & Ostgut Ton,Bad Boy,"2017-02-11 - B.Traits, Peggy Gou, Sasha, Djrum - B.Traits, BBC Radio 1",7sgNTIMjlnHb1uUGBR0PlT,Phantom Studies,4.0331166666666665,130.006,0.761,0.795,0.738,1,4,0.000152,0.927,1
+318,8,6,Radio Slave & Rekids,Feel The Same,"2017-02-11 - B.Traits, Peggy Gou, Sasha, Djrum - B.Traits, BBC Radio 1",2tKLBldDXQ1bCZCcehIVyq,Feel The Same (Floorplan Remixes),4.2598,128.963,0.952,0.723,0.0883,1,4,0.000585,0.288,1
+319,1,6,Auntie Flo & Sofrito,The Soniferous Garden,"2017-02-11 - B.Traits, Peggy Gou, Sasha, Djrum - B.Traits, BBC Radio 1",4hR2UbXLstFh5z767cY0Ew,The Soniferous Garden,14.3,120.074,0.548,0.841,0.315,11,4,0.168,0.635,0
+322,4,6,!!! & Touch and Go,Pardon My Freedom,"2017-02-11 - B.Traits, Peggy Gou, Sasha, Djrum - B.Traits, BBC Radio 1",1mgtLhHUVLkLXTX1iT8OEx,Louden Up Now,5.85155,120.75,0.892,0.712,0.632,9,4,0.00231,0.195,1
+325,7,6,Spencer Parker & Work Them Records,A Strong Shape,"2017-02-11 - B.Traits, Peggy Gou, Sasha, Djrum - B.Traits, BBC Radio 1",1bfePR62Q5F9L6ytiAKng9,"Different Shapes and Sizes, Pt. 1",5.6915,124.035,0.875,0.804,0.0325,1,4,0.139,0.955,0
+326,1,6,Hunter/Game,Canyons,"2017-02-11 - B.Traits, Peggy Gou, Sasha, Djrum - B.Traits, BBC Radio 1",7tooz605WeoHBxcX6RxBkC,Lands,8.458983333333334,124.0,0.454,0.501,0.354,5,4,0.0407,0.84,0
+327,2,6,Henry Saiz,I Can Feel It Coming,"2017-02-11 - B.Traits, Peggy Gou, Sasha, Djrum - B.Traits, BBC Radio 1",3WNoGS74pjat9VMNFgCB2S,It's Not Over,6.24285,121.008,0.619,0.804,0.749,9,4,0.0712,0.922,0
+328,3,6,ThermalBear,Just Ducky,"2017-02-11 - B.Traits, Peggy Gou, Sasha, Djrum - B.Traits, BBC Radio 1",7AdXNiCXuwPfFeSWcmibrL,Just Too Late for Summer,7.296583333333333,123.004,0.647,0.804,0.756,8,4,0.00228,0.697,0
+329,4,6,Theo Kottis,If I Ever Feel Better,"2017-02-11 - B.Traits, Peggy Gou, Sasha, Djrum - B.Traits, BBC Radio 1",5eoC7wEjt3vIClz8gKuDny,If I Ever Feel Better,8.835783333333334,120.011,0.738,0.589,0.378,2,4,0.137,0.844,0
+330,5,6,Cosmonauts,Ramble,"2017-02-11 - B.Traits, Peggy Gou, Sasha, Djrum - B.Traits, BBC Radio 1",4G7qV81ZWbvDtbBxgCrsyG,Ramble,7.28985,122.008,0.48,0.692,0.843,7,4,0.00358,0.95,1
+331,1,6,Djrum & 2nd Drop,Tailing,"2017-02-11 - B.Traits, Peggy Gou, Sasha, Djrum - B.Traits, BBC Radio 1",5XHaAFISHN8zdDUhDDmvoe,The Miracle,9.860566666666667,131.938,0.808,0.395,0.143,11,4,0.196,0.91,0
+333,3,6,Artefakt & Delsin,Somatic Dreams,"2017-02-11 - B.Traits, Peggy Gou, Sasha, Djrum - B.Traits, BBC Radio 1",1MZHnzh3pE3nY3bWdsEevF,Kinship,5.973483333333333,126.998,0.945,0.747,0.161,5,4,0.00961,0.9,1
+334,4,6,Cleric & Figure,Wickerman,"2017-02-11 - B.Traits, Peggy Gou, Sasha, Djrum - B.Traits, BBC Radio 1",0IezYxsueDO3PxJQzWO09r,Wickerman,5.0803666666666665,126.994,0.78,0.692,0.336,7,4,0.0129,0.907,1
+335,5,6,A Made Up Sound,After Hours,"2017-02-11 - B.Traits, Peggy Gou, Sasha, Djrum - B.Traits, BBC Radio 1",6Mj98MAxcxq4360gUlsdkr,A Made Up Sound (2009-2016),12.012583333333334,187.504,0.593,0.697,0.116,4,3,0.00273,0.877,0
+336,6,6,Djrum & 2nd Drop,DAM,"2017-02-11 - B.Traits, Peggy Gou, Sasha, Djrum - B.Traits, BBC Radio 1",5cvVx1DJdGZuG0EPCWatD2,Seven Lies,9.019716666666667,129.333,0.661,0.484,0.442,4,4,0.382,0.891,0
+337,7,6,Paul Woolford & Pscatron & Hotflush,Stolen,"2017-02-11 - B.Traits, Peggy Gou, Sasha, Djrum - B.Traits, BBC Radio 1",5f97XN9A06Rlsz6LHk3HIc,Stolen,9.624583333333334,129.993,0.8,0.713,0.578,7,4,0.00507,0.88,1
+338,8,6,Heiko Laux & Kanzleramt,Five,"2017-02-11 - B.Traits, Peggy Gou, Sasha, Djrum - B.Traits, BBC Radio 1",76rnXNbEg9bA593QekoAX0,Sense Fiction (Remixed),5.5551,137.689,0.895,0.739,0.537,7,4,1.14e-05,0.898,1
+339,9,6,TSVI & Nervous Horizon,Set You Free,"2017-02-11 - B.Traits, Peggy Gou, Sasha, Djrum - B.Traits, BBC Radio 1",6llIVtYjXarp18iJkuvo8g,Set You Free,5.6,130.015,0.874,0.696,0.0309,7,4,0.000565,0.924,0
+340,10,6,Sciahri & Black Opal,Ambiguity,"2017-02-11 - B.Traits, Peggy Gou, Sasha, Djrum - B.Traits, BBC Radio 1",3pzBxiH5YjfP3a95JjN3Lf,Behind the Line,5.465633333333333,130.994,0.763,0.712,0.18,6,3,0.583,0.885,1
+343,13,6,Vaal & Afterlife,Wander To Hell,"2017-02-11 - B.Traits, Peggy Gou, Sasha, Djrum - B.Traits, BBC Radio 1",2grmW7b7QgrfTCRNumHq65,Wander to Hell,6.449433333333333,121.008,0.675,0.778,0.0265,1,3,0.0128,0.931,0
+344,14,6,QNS,QNS2,"2017-02-11 - B.Traits, Peggy Gou, Sasha, Djrum - B.Traits, BBC Radio 1",16NJZHAwS6PctCuS7ZY8gs,Qns,7.683083333333333,171.874,0.782,0.378,0.0649,6,4,0.000951,0.855,0
+345,1,2,Björk,Harm Of Will,"2017-05-26 - Djrum, Neinzer - Solid Steel",1c3Po71BR1s2Pthete2mou,Vespertine,4.61555,171.263,0.137,0.151,0.0665,1,4,0.969,0.00583,1
+346,1,2,Björk,Harm Of Will,"2017-05-26 - Djrum, Neinzer - Solid Steel",1c3Po71BR1s2Pthete2mou,Vespertine,4.61555,171.263,0.137,0.151,0.0665,1,4,0.969,0.00583,1
+347,1,2,Björk,Harm Of Will,"2017-05-26 - Djrum, Neinzer - Solid Steel",1c3Po71BR1s2Pthete2mou,Vespertine,4.61555,171.263,0.137,0.151,0.0665,1,4,0.969,0.00583,1
+348,2,2,Alva Noto And Ryuichi Sakamoto,Logic Moon,"2017-05-26 - Djrum, Neinzer - Solid Steel",2l65fEzxTnOIPEpHjbHVBf,Insen,6.836666666666667,120.627,0.254,0.379,0.0375,4,4,0.876,0.957,0
+349,3,2,Herva,No Money No Honey,"2017-05-26 - Djrum, Neinzer - Solid Steel",6kR7Lr3FVqbWbLnMJp4hZA,HTMYO,4.4892666666666665,131.011,0.752,0.625,0.282,10,4,0.0359,0.925,0
+351,5,2,∑,06:08,"2017-05-26 - Djrum, Neinzer - Solid Steel",2HvjS42KBJ2XZGRcFFDViW,Glitter And Doom Live (Remastered),3.7944333333333335,125.413,0.864,0.49,0.698,0,4,0.153,0.00352,1
+353,7,2,Bop,So Unloved,"2017-05-26 - Djrum, Neinzer - Solid Steel",2sAX7zlxYTTFjJyqwtqVBK,Not Your Cup Of Tea,4.61175,170.038,0.494,0.791,0.483,2,4,0.0314,0.855,1
+354,8,2,Xadrez,No Jazz Bars,"2017-05-26 - Djrum, Neinzer - Solid Steel",4pzDGHqV0byeK0UcBoyUTO,Suburbiofuturismo,2.466666666666667,159.894,0.786,0.697,0.338,4,4,0.00554,0.00717,0
+356,10,2,Dead Man's Chest,Avalon Dub,"2017-05-26 - Djrum, Neinzer - Solid Steel",71eE3VDGb4ChQC0rJa4Mp7,Throwing Shades,5.894816666666666,157.004,0.988,0.56,0.657,11,4,0.000725,0.597,0
+357,11,2,Last Life,Nether Regions,"2017-05-26 - Djrum, Neinzer - Solid Steel",3rRJc8qwbDkVQ2RtHH7H7C,Nether Regions,6.053083333333333,172.051,0.501,0.663,0.0383,6,4,0.0429,0.884,1
+358,12,2,Hodge & Peder,Inside The Rain,"2017-05-26 - Djrum, Neinzer - Solid Steel",6LxMtiT1FceqeNndzTQlg5,All My Love,2.41025,129.154,0.682,0.229,0.0699,9,4,0.918,0.716,1
+359,13,2,Cassius Select,90,"2017-05-26 - Djrum, Neinzer - Solid Steel",05LKQAhge3R1M264zpnMd8,90 / Herd,4.582566666666667,173.129,0.627,0.695,0.345,6,5,0.573,0.908,0
+360,14,2,Lurka,Beater,"2017-05-26 - Djrum, Neinzer - Solid Steel",4gEYWB0GFN9tioOrBAjW7E,Beater,5.5461833333333335,112.972,0.648,0.899,0.061,1,4,0.00283,0.825,0
+362,16,2,YYYY,Invite,"2017-05-26 - Djrum, Neinzer - Solid Steel",4PGYmXHYI5bPq3IwEyVLAc,Dividing The Catch EP,5.188483333333333,127.027,0.395,0.833,0.355,11,3,0.0681,0.909,0
+363,17,2,Colin Stetson,Like Wolves On The Fold,"2017-05-26 - Djrum, Neinzer - Solid Steel",3uLKMZ9WaX5hVqGERLgJkt,All This I Do For Glory,7.607766666666667,68.997,0.56,0.414,0.721,6,4,0.858,0.876,1
+364,18,2,SCNTST,Thru Infinity,"2017-05-26 - Djrum, Neinzer - Solid Steel",6leEByzTOK7UVBplPlcWgc,Thru Infinity,6.282266666666667,131.365,0.955,0.493,0.109,1,4,0.0249,0.72,1
+365,19,2,Christoph Berg,Farewell,"2017-05-26 - Djrum, Neinzer - Solid Steel",631gW3zOipXtKRX0ggn2sY,Conversations,7.130216666666667,86.924,0.185,0.0931,0.0293,11,4,0.981,0.842,1
+366,20,2,Blondes,Quality Of Life,"2017-05-26 - Djrum, Neinzer - Solid Steel",0QRDoLWqFpmVjvGIwlioQM,Warmth,7.094133333333334,126.0,0.805,0.687,0.162,7,4,0.00019,0.873,1
+367,21,2,Kowton,Pea Soup,"2017-05-26 - Djrum, Neinzer - Solid Steel",00noCtgc2xrhwKxCzoxze5,Pinch & Peverelist Present: In Deep,5.837433333333333,126.071,0.791,0.479,0.178,1,4,0.00859,0.893,1
+368,21,2,Kowton,Pea Soup,"2017-05-26 - Djrum, Neinzer - Solid Steel",00noCtgc2xrhwKxCzoxze5,Pinch & Peverelist Present: In Deep,5.837433333333333,126.071,0.791,0.479,0.178,1,4,0.00859,0.893,1
+369,22,2,Christoph Berg,Memories,"2017-05-26 - Djrum, Neinzer - Solid Steel",5OMqYZUM5L9TDT7HlUyeWP,Conversations,3.1177,113.571,0.0358,0.203,0.0323,0,5,0.954,0.581,1
+370,23,2,Peter Van Hoesen,Circumference 12,"2017-05-26 - Djrum, Neinzer - Solid Steel",1TLPlrcySwWR7tRi7kgK6m,Oscar's Blood,6.6411,127.995,0.759,0.799,0.136,11,3,0.388,0.946,0
+372,25,2,Viers,Moonlighting,"2017-05-26 - Djrum, Neinzer - Solid Steel",5fjxD0pZwOALFPSWFwaVkF,Freesia,7.704916666666667,126.993,0.752,0.761,0.0388,11,4,0.0112,0.881,0
+373,26,2,Randomer,Smokin',"2017-05-26 - Djrum, Neinzer - Solid Steel",7kHdteDFUlvnuAmXarcGpY,Smokin,5.6584,130.98,0.955,0.788,0.276,1,4,0.000398,0.841,0
+375,28,2,Björk,Harm Of Will,"2017-05-26 - Djrum, Neinzer - Solid Steel",1c3Po71BR1s2Pthete2mou,Vespertine,4.61555,171.263,0.137,0.151,0.0665,1,4,0.969,0.00583,1
+376,28,2,Björk,Harm Of Will,"2017-05-26 - Djrum, Neinzer - Solid Steel",1c3Po71BR1s2Pthete2mou,Vespertine,4.61555,171.263,0.137,0.151,0.0665,1,4,0.969,0.00583,1
+377,28,2,Björk,Harm Of Will,"2017-05-26 - Djrum, Neinzer - Solid Steel",1c3Po71BR1s2Pthete2mou,Vespertine,4.61555,171.263,0.137,0.151,0.0665,1,4,0.969,0.00583,1
+378,29,2,?,Harm Of Will,"2017-05-26 - Djrum, Neinzer - Solid Steel",1c3Po71BR1s2Pthete2mou,Vespertine,4.61555,171.263,0.137,0.151,0.0665,1,4,0.969,0.00583,1
+379,29,2,?,Harm Of Will,"2017-05-26 - Djrum, Neinzer - Solid Steel",1c3Po71BR1s2Pthete2mou,Vespertine,4.61555,171.263,0.137,0.151,0.0665,1,4,0.969,0.00583,1
+380,29,2,?,Harm Of Will,"2017-05-26 - Djrum, Neinzer - Solid Steel",1c3Po71BR1s2Pthete2mou,Vespertine,4.61555,171.263,0.137,0.151,0.0665,1,4,0.969,0.00583,1
+381,30,2,Djrum,Showreel Pt.1,"2017-05-26 - Djrum, Neinzer - Solid Steel",6EWWNKaCgZKHAGFFFkTPdi,Broken Glass Arch,3.0022166666666665,135.427,0.274,0.255,0.18,3,4,0.926,0.912,1
+382,1,2,The The Paradise Bangkok Molam International Band,Exit Planet Lam,"2017-05-26 - Djrum, Neinzer - Solid Steel",5mhUyWm7ZF8fsYEsUxfgF3,Planet Lam,5.60035,130.427,0.233,0.823,0.457,1,4,0.0335,0.0114,1
+384,3,2,Forest Drive West,System,"2017-05-26 - Djrum, Neinzer - Solid Steel",1pVkatuDIrDV6UoSIbdCue,System / Show Them,10.809883333333334,124.003,0.431,0.687,0.0779,10,4,0.527,0.915,0
+385,4,2,Ploy,Blow Poke,"2017-05-26 - Djrum, Neinzer - Solid Steel",1cDRuqT57EOM6SsGzTAsyN,Intrigued by the Drum,5.912,124.997,0.752,0.702,0.309,7,4,5.05e-05,0.936,1
+387,6,2,Four Tet,Ocoras,"2017-05-26 - Djrum, Neinzer - Solid Steel",2UstCTe6NPOFZpHvMfZu4d,Pink,5.396316666666666,125.008,0.824,0.779,0.321,7,4,0.0304,0.898,1
+388,7,2,Dynamo Dreesen & SVN & A Made Up Sound,Untitled,"2017-05-26 - Djrum, Neinzer - Solid Steel",3udyRwClp6JDmz2Oo999Bv,Sued 14,6.231516666666667,119.796,0.658,0.812,0.0357,7,4,0.0233,0.201,1
+389,7,2,Dynamo Dreesen & SVN & A Made Up Sound,Untitled,"2017-05-26 - Djrum, Neinzer - Solid Steel",0Jx9YPQKdw7n4qT9Ayo0Lo,Grim Dub Vol. 2,3.8537666666666666,99.065,0.984,0.572,0.0467,10,1,0.0782,0.322,0
+390,7,2,Dynamo Dreesen & SVN & A Made Up Sound,Untitled,"2017-05-26 - Djrum, Neinzer - Solid Steel",3PbV3ocgAp3Xn0omGFC0cG,Apricot Princess,2.2617666666666665,83.827,0.199,0.567,0.329,9,5,0.905,0,1
+391,8,2,Neinzer,Horus,"2017-05-26 - Djrum, Neinzer - Solid Steel",3UtNSbHCzcOOiCN0i5BtUV,Patina Echoes,6.0442833333333335,168.09,0.36,0.383,0.174,11,5,0.000408,0.93,0
+392,9,2,Yotam Avni,Tehillim,"2017-05-26 - Djrum, Neinzer - Solid Steel",5LMj7mHds9vnBirK81EuDK,Tehillim,5.843816666666667,128.018,0.849,0.463,0.132,1,4,0.0136,0.908,0
+393,10,2,Kowton,Pea Soup,"2017-05-26 - Djrum, Neinzer - Solid Steel",00noCtgc2xrhwKxCzoxze5,Pinch & Peverelist Present: In Deep,5.837433333333333,126.071,0.791,0.479,0.178,1,4,0.00859,0.893,1
+394,10,2,Kowton,Pea Soup,"2017-05-26 - Djrum, Neinzer - Solid Steel",00noCtgc2xrhwKxCzoxze5,Pinch & Peverelist Present: In Deep,5.837433333333333,126.071,0.791,0.479,0.178,1,4,0.00859,0.893,1
+398,14,2,Oskar Offermann,Le Grand To Do,"2017-05-26 - Djrum, Neinzer - Solid Steel",4raIGjQIZWWHvKJKzFXiXh,Le Grand To Do Remixed,7.5559,127.997,0.688,0.799,0.575,2,4,0.00157,0.93,1
+400,16,2,Aleksi Perälä,Uk74r1514020,"2017-05-26 - Djrum, Neinzer - Solid Steel",1B3LpmeBy2A1DPBJ2C3lFK,The Colundi Sequence Vol. 2,3.2,119.975,0.249,0.713,0.363,1,4,0.616,0.872,0
+402,1,1,Mohammad Reza Mortazavi,Riding Time,2020-01-27 - Djrum - Dekmantel Podcast 267,5Xwz9tlRxVxJ4j6F1M7ONO,Ritme Jaavdanegi,3.1816166666666668,157.109,0.942,0.69,0.496,0,5,0.174,0.873,1
+403,2,1,Kimyan Law,Kin,2020-01-27 - Djrum - Dekmantel Podcast 267,7m8Mct8TvYHr2twmIGR7di,Yonda,5.377,171.952,0.637,0.747,0.0727,6,4,0.0733,0.902,0
+404,3,1,Djrum,Tournesol,2020-01-27 - Djrum - Dekmantel Podcast 267,23ZXS5F6VWSe1TPnuRyLnO,Hard to Say / Tournesol,10.58975,169.984,0.861,0.538,0.167,2,4,0.077,0.658,1
+405,4,1,33EMYBW,Induce,2020-01-27 - Djrum - Dekmantel Podcast 267,0EM8sDYwHUVTHjTngVnG7N,Arthropods,5.189383333333334,165.0,0.798,0.577,0.262,7,4,0.0311,0.866,1
+406,5,1,Aleksi Perälä,UK74R1826130,2020-01-27 - Djrum - Dekmantel Podcast 267,0ZYSCnTTRKBSKpI4A1vBSd,Starlight 3,4.5,159.986,0.898,0.587,0.131,2,4,3.4e-05,0.395,1
+407,6,1,Sully,Rotten,2020-01-27 - Djrum - Dekmantel Podcast 267,0XTyDgfXmmooTVxZfZFaEA,Lifted / Rotten,5.176333333333333,164.008,0.641,0.492,0.0933,1,4,0.00175,0.526,1
+408,7,1,Cop Envy & DJ Plead,I.G.A,2020-01-27 - Djrum - Dekmantel Podcast 267,4ZUldH9Mlo6CpUDDB9ZSEi,Hinged,5.188483333333333,150.008,0.796,0.76,0.0899,11,3,0.106,0.902,0
+409,8,1,African Head Charge,Stebeni's Theme,2020-01-27 - Djrum - Dekmantel Podcast 267,33mmlIx8DRoKYlLQMdxzEQ,My Life In A Hole In The Ground,3.57155,122.483,0.646,0.757,0.407,7,4,0.11,0.807,1
+410,9,1,Call Super & Parris,Chiseler's Rush,2020-01-27 - Djrum - Dekmantel Podcast 267,1020knNWczuxGSlQca08Wy,CANUFEELTHESUNONYRBACK,7.227083333333334,134.971,0.401,0.719,0.386,0,4,0.0103,0.418,1
+411,10,1,Boxwork,Pepper Stalk,2020-01-27 - Djrum - Dekmantel Podcast 267,76SVWUg6o7VHypAdcHAan5,"We Are Family, Vol. 3",4.6299166666666665,127.002,0.91,0.798,0.247,9,4,0.000492,0.869,1
+412,11,1,SP:MC,Vintage,2020-01-27 - Djrum - Dekmantel Podcast 267,1kD8KcFldg7t0MAdn959BF,Vintage / Slugfest,5.784866666666667,135.0,0.856,0.785,0.523,11,4,0.00358,0.914,0
+413,12,1,Squarepusher,Theme From Ernest Borgnine,2020-01-27 - Djrum - Dekmantel Podcast 267,4XbCeS8CvtisRFSPJ4GmHA,Feed Me Weird Things (Remastered),7.927333333333333,159.541,0.987,0.494,0.363,1,4,0.0291,0.881,1
+414,12,1,Squarepusher,Theme From Ernest Borgnine,2020-01-27 - Djrum - Dekmantel Podcast 267,4XbCeS8CvtisRFSPJ4GmHA,Feed Me Weird Things (Remastered),7.927333333333333,159.541,0.987,0.494,0.363,1,4,0.0291,0.881,1
+415,13,1,?,Theme From Ernest Borgnine,2020-01-27 - Djrum - Dekmantel Podcast 267,4XbCeS8CvtisRFSPJ4GmHA,Feed Me Weird Things (Remastered),7.927333333333333,159.541,0.987,0.494,0.363,1,4,0.0291,0.881,1
+416,13,1,?,Theme From Ernest Borgnine,2020-01-27 - Djrum - Dekmantel Podcast 267,4XbCeS8CvtisRFSPJ4GmHA,Feed Me Weird Things (Remastered),7.927333333333333,159.541,0.987,0.494,0.363,1,4,0.0291,0.881,1
+418,15,1,Proc Fiskal,Pico,2020-01-27 - Djrum - Dekmantel Podcast 267,44lkKmomzocnsmIkIWtydA,Shleekit Doss EP,5.340433333333333,139.683,0.845,0.538,0.264,1,4,0.0492,0.733,1
+419,16,1,Lee Gamble,Envenom,2020-01-27 - Djrum - Dekmantel Podcast 267,6ZVm7XU8HH7X2R9Gp2OLyC,Flush Real Pharynx 2019-2021,4.044666666666667,136.016,0.927,0.649,0.195,1,4,0.00818,0.714,1
+421,18,1,Clark,Unfurla,2020-01-27 - Djrum - Dekmantel Podcast 267,2anIRRx1qYjJTcLY5VTQ9L,Clark,5.4366666666666665,126.016,0.857,0.626,0.163,0,4,0.00565,0.802,1
+422,19,1,Wim Mertens,Mildly Skeeming,2020-01-27 - Djrum - Dekmantel Podcast 267,4K8tsMxRrHeqId4jM6jn34,Vergessen,7.2755833333333335,96.963,0.408,0.611,0.936,0,3,0.6,0.00873,1
+423,19,1,Wim Mertens,Mildly Skeeming,2020-01-27 - Djrum - Dekmantel Podcast 267,4K8tsMxRrHeqId4jM6jn34,Vergessen,7.2755833333333335,96.963,0.408,0.611,0.936,0,3,0.6,0.00873,1
+424,20,1,?,Mildly Skeeming,2020-01-27 - Djrum - Dekmantel Podcast 267,4K8tsMxRrHeqId4jM6jn34,Vergessen,7.2755833333333335,96.963,0.408,0.611,0.936,0,3,0.6,0.00873,1
+425,20,1,?,Mildly Skeeming,2020-01-27 - Djrum - Dekmantel Podcast 267,4K8tsMxRrHeqId4jM6jn34,Vergessen,7.2755833333333335,96.963,0.408,0.611,0.936,0,3,0.6,0.00873,1
+426,21,1,Anunaku,Bronze Age,2020-01-27 - Djrum - Dekmantel Podcast 267,5Fl01wsuaXCIaNoCUCKbKz,Whities 024,6.476183333333333,126.008,0.95,0.553,0.141,1,4,0.0217,0.876,1
+427,22,1,Gabber Modus Operandi,Calon Arang,2020-01-27 - Djrum - Dekmantel Podcast 267,7550LNS5j4OLE3Hn1Nl3zg,HOXXXYA,4.341733333333333,100.019,0.768,0.49,0.199,6,4,0.000496,0.925,1
+428,23,1,Hellfish & The Producer,Turntable Savage,2020-01-27 - Djrum - Dekmantel Podcast 267,0IUDGUSqCdKabeQp8AFHN0,The Cosmic Forces of Mu,6.96355,106.91,0.821,0.783,0.745,10,4,0.0193,0.363,0
+431,26,1,Aleksi Perälä,UK74R1825050,2020-01-27 - Djrum - Dekmantel Podcast 267,1WWrZMl8LtpocxkZ5N5UxR,Moonshine,4.5,160.012,0.503,0.652,0.357,10,4,0.0062,0.914,1
+432,1,1,Pariah,Linnaea,"2021-04-11 - Djrum @ London Unlocked, Tower Bridge, London",6Idcn8HUYlHwSdZDe02KYV,Here From Where We Are,7.06425,125.002,0.417,0.601,0.688,3,4,0.831,0.922,1
+433,1,1,Pariah,Linnaea,"2021-04-11 - Djrum @ London Unlocked, Tower Bridge, London",2e4bS0GxxHlCuDf44iDGpG,"Sibelius: Piano Music, Vol. 4",1.8828833333333332,125.223,0.0109,0.455,0.0878,1,5,0.986,0.89,0
+434,2,1,?,Linnaea,"2021-04-11 - Djrum @ London Unlocked, Tower Bridge, London",6Idcn8HUYlHwSdZDe02KYV,Here From Where We Are,7.06425,125.002,0.417,0.601,0.688,3,4,0.831,0.922,1
+435,2,1,?,Linnaea,"2021-04-11 - Djrum @ London Unlocked, Tower Bridge, London",2e4bS0GxxHlCuDf44iDGpG,"Sibelius: Piano Music, Vol. 4",1.8828833333333332,125.223,0.0109,0.455,0.0878,1,5,0.986,0.89,0
+436,3,1,Henzo,For Your Consideration,"2021-04-11 - Djrum @ London Unlocked, Tower Bridge, London",4CbSiue28BxbRsUqdpYgTp,Have a Seat,3.858433333333333,185.831,0.407,0.509,0.497,10,3,0.565,0,1
+437,4,1,?,For Your Consideration,"2021-04-11 - Djrum @ London Unlocked, Tower Bridge, London",4CbSiue28BxbRsUqdpYgTp,Have a Seat,3.858433333333333,185.831,0.407,0.509,0.497,10,3,0.565,0,1
+438,5,1,Yunis,Fractals,"2021-04-11 - Djrum @ London Unlocked, Tower Bridge, London",2eqlSIpCku9RTTF9gQ77Pt,Amygdala,3.0593,83.893,0.586,0.507,0.0935,2,4,0.000961,0.000409,1
+439,6,1,33EMYBW,Medical Fodder,"2021-04-11 - Djrum @ London Unlocked, Tower Bridge, London",2rg16O2mPBZboEEQOJ4Atq,Medical Fodder,4.346916666666667,169.985,0.947,0.613,0.534,4,3,0.0557,0.805,0
+440,7,1,Forest Drive West,Impulse,"2021-04-11 - Djrum @ London Unlocked, Tower Bridge, London",5e3wxpmWxURRMnZxDOrWxq,Impulse,7.364516666666667,170.032,0.953,0.668,0.594,11,4,0.000564,0.778,0
+442,9,1,Uberdog & Binray,Untitled,"2021-04-11 - Djrum @ London Unlocked, Tower Bridge, London",3udyRwClp6JDmz2Oo999Bv,Sued 14,6.231516666666667,119.796,0.658,0.812,0.0357,7,4,0.0233,0.201,1
+443,9,1,Uberdog & Binray,Untitled,"2021-04-11 - Djrum @ London Unlocked, Tower Bridge, London",0Jx9YPQKdw7n4qT9Ayo0Lo,Grim Dub Vol. 2,3.8537666666666666,99.065,0.984,0.572,0.0467,10,1,0.0782,0.322,0
+444,9,1,Uberdog & Binray,Untitled,"2021-04-11 - Djrum @ London Unlocked, Tower Bridge, London",3PbV3ocgAp3Xn0omGFC0cG,Apricot Princess,2.2617666666666665,83.827,0.199,0.567,0.329,9,5,0.905,0,1
+445,10,1,?,Untitled,"2021-04-11 - Djrum @ London Unlocked, Tower Bridge, London",3udyRwClp6JDmz2Oo999Bv,Sued 14,6.231516666666667,119.796,0.658,0.812,0.0357,7,4,0.0233,0.201,1
+446,10,1,?,Untitled,"2021-04-11 - Djrum @ London Unlocked, Tower Bridge, London",0Jx9YPQKdw7n4qT9Ayo0Lo,Grim Dub Vol. 2,3.8537666666666666,99.065,0.984,0.572,0.0467,10,1,0.0782,0.322,0
+447,10,1,?,Untitled,"2021-04-11 - Djrum @ London Unlocked, Tower Bridge, London",3PbV3ocgAp3Xn0omGFC0cG,Apricot Princess,2.2617666666666665,83.827,0.199,0.567,0.329,9,5,0.905,0,1
+448,11,1,Toma Kami,This Side Up,"2021-04-11 - Djrum @ London Unlocked, Tower Bridge, London",1I7uAbnGQBxEMFgXFx46at,Oscillate Tracks 004,5.7240166666666665,128.039,0.656,0.433,0.35,0,4,0.00159,0.83,1
+450,13,1,Al Wootton,Prophecy,"2021-04-11 - Djrum @ London Unlocked, Tower Bridge, London",1hr7PFl6CXSNhbZHDOGXwA,Body Healthy,5.739116666666667,137.947,0.802,0.695,0.255,1,4,0.017,0.909,1
+454,17,1,Autechre,Flutter,"2021-04-11 - Djrum @ London Unlocked, Tower Bridge, London",3apyTh43wRTveSEGUyECP5,Anti,9.962216666666666,150.05,0.673,0.604,0.384,1,4,0.351,0.0772,0
+455,18,1,Laksa,Belly Brocka,"2021-04-11 - Djrum @ London Unlocked, Tower Bridge, London",6jfLGianEIpPDMxsuMLYWu,Fire Kit EP,5.755366666666666,146.002,0.862,0.422,0.44,1,4,0.00101,0.577,1
+456,19,1,Monkey Steak,Crowsteppah,"2021-04-11 - Djrum @ London Unlocked, Tower Bridge, London",5adrhGb6eKtJIwlKRvx6WO,Grim Dub Vol. 1,4.606883333333333,145.018,0.622,0.72,0.552,11,4,0.0376,0.914,0
+458,21,1,Simo Cell & Abdullah Miniawy,Pending In The Pattern,"2021-04-11 - Djrum @ London Unlocked, Tower Bridge, London",1xlGKElhkGIEsWwSoySGpP,Pending in the Pattern,4.4,159.345,0.657,0.466,0.291,1,4,0.000446,0.00082,0
+459,22,1,Crossing Avenue,Decimo Piano,"2021-04-11 - Djrum @ London Unlocked, Tower Bridge, London",7ykYoAyMs6rpBlNoaWw7DX,Carmaleonte EP,5.6828,159.988,0.618,0.626,0.176,7,4,0.0509,0.896,1
+462,25,1,Cucumb45,Opxthermin,"2021-04-11 - Djrum @ London Unlocked, Tower Bridge, London",3fP2jjlf8QsWkZIxyKGY5f,Slother EP1 Lyf og bið að heilsa,6.023716666666667,164.04,0.962,0.639,0.663,7,4,0.00014,0.626,1
+463,26,1,Rian Treanor,ATAXIA_B2,"2021-04-11 - Djrum @ London Unlocked, Tower Bridge, London",2NRJzI8RiMaCFqRzTFUgxq,ATAXIA,3.4462166666666665,149.968,0.668,0.749,0.606,6,4,0.143,0.557,1
